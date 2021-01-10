@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Kai Yi"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "me.png"
+  bio              : "Graduate Student at KAUST\\Research Intern at Tencent AI Lab"
+  location         : "Thuwal 23955, Saudi Arabia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r08j39wAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
