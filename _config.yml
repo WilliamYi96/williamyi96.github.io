@@ -11,6 +11,11 @@ title                    : "Kai Yi's Homepage"
 title_separator          : "-"
 name                     : &name "Kai Yi"
 description              : &description "Graduate student at KAUST focusing on computer vision and machine learning"
+description              : &description  "Graduate Student"
+description              : &description  "King Abdullah University of Science and Technology (KAUST)"
+description              : &description  "Research Intern"
+description              : &description  "Tencent AI Lab"
+description              : &description  "Machine Learning Center"
 url                      : https://kaiyi.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WilliamYi96/williamyi96.github.io"
@@ -81,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Kai Yi"
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   bio              : |
      Graduate Student, <br>
      King Abdullah University of Science and Technology (KAUST) <br>
