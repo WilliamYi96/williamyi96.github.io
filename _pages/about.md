@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student at [KAUST](https://www.kaust.edu.sa/en) under the supervision of Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home). Before that, I received my B.Eng with honor from Department of Software Engineering, [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. My current research interests are computer vision, machine learning, and computational biology.
-
-Now I'm also a research intern at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), Machine Learning Center. Before joining this, I've interned at [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), [SenseTime](https://www.sensetime.com/en). 
+I'm a graduate student at [KAUST](https://www.kaust.edu.sa/en) under the supervision of Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home). Before that, I received my B.Eng with honor from Department of Software Engineering, [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. Now I'm also a research intern at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), Machine Learning Center. Before joining this, I've interned at [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime](https://www.sensetime.com/en). 
 
 <span style="color:red">What's New</span>
 ======
@@ -18,7 +16,7 @@ Now I'm also a research intern at [Tencent AI Lab](https://ai.tencent.com/ailab/
 * <span style="color:red">New!!</span> 2020.12. Start research at Tencent AI Lab.
 * 2020.12. Volunteer of NeurIPS 2020. 
 * 2020.10. Reviewer of WACV 2021.
-* 2020.08. Technical report of "Legendre decomposition in machine learning" is available on [arXiv](https://arxiv.org/abs/2008.05095).
+* 2020.08. Technical report of Legendre decomposition in machine learning is available on [arXiv](https://arxiv.org/abs/2008.05095).
 * 2020.05. Reviewer of BMVC 2020.
 * 2020.05. Start research at KAUST Vision-CAIR group.
 * 2020.04. Reviewer of ITSC 2020.
