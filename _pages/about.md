@@ -41,6 +41,6 @@ Recent Papers
 
 Selected Publications
 ======
-* <span style="color:red">New!!</span>  Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki. "CIZSL++: Creativity Inspired Generative Zero-Shot Learning](https://arxiv.org/abs/2101.00173)", PAMI Submission. [Code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
+* <span style="color:red">New!!</span>  Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki. "[CIZSL++: Creativity Inspired Generative Zero-Shot Learning](https://arxiv.org/abs/2101.00173)", PAMI Submission. [Code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
 * **Kai Yi**, Zhiqiang Jian, Shitao Chen, [Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1015/1071.htm). [Feature Selective Small Object Detection via Knowledge-based Recurrent Attentive Neural Network](https://arxiv.org/abs/1803.05263v4). arXiv: 1803.05263v4.
 
