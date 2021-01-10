@@ -82,8 +82,13 @@ analytics:
 author:
   name             : "Kai Yi"
   avatar           : "me.png"
-  bio              : "Graduate Student at KAUST\\Research Intern at Tencent AI Lab"
-  location         : "Thuwal 23955, Saudi Arabia"
+  bio              : |
+     Graduate Student, <br>
+     King Abdullah University of Science and Technology (KAUST) <br>
+     Research Intern, <br>
+     Tencent AI Lab <br>
+     Machine Learning Center
+  location         : "Thuwal, Saudi Arabia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r08j39wAAAAJ"
