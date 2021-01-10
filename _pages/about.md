@@ -18,7 +18,7 @@ Now I'm also a research intern at [Tencent AI Lab](https://ai.tencent.com/ailab/
 * <span style="color:red">New!!</span> 2020.12. Start research at Tencent AI Lab.
 * 2020.12. Volunteer of NeurIPS 2020. 
 * 2020.10. Reviewer of WACV 2021.
-* 2020.08. Technical report of ''Legendre decomposition in machine learning'' is available on arXiv.
+* 2020.08. Technical report of "[Legendre decomposition in machine learning](https://arxiv.org/abs/2008.05095)" is available on arXiv.
 * 2020.05. Reviewer of BMVC 2020.
 * 2020.05. Start research at KAUST Vision-CAIR group.
 * 2020.04. Reviewer of ITSC 2020.
