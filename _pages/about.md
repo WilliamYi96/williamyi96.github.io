@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a graduate student at [KAUST](https://www.kaust.edu.sa/en) under the supervision of Prof.[Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home). Before that, I received my B.Eng with honor from Department of Software Engineering, [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. My current research interests are computer vision, machine learning, and computational biology.
 
-Now I'm also a research intern at [https://ai.tencent.com/ailab/en/index](Tencent AI Lab), Machine Learning Center. Before joining this, I've interned at [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), [SenseTime](https://www.sensetime.com/en). 
+Now I'm also a research intern at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), Machine Learning Center. Before joining this, I've interned at [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), [SenseTime](https://www.sensetime.com/en). 
 
 <span style="color:red">What's New</span>
 ======
