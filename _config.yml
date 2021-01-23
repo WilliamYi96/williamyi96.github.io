@@ -14,8 +14,8 @@ description              : &description "Graduate student at KAUST focusing on c
 description              : &description  "Graduate Student"
 description              : &description  "King Abdullah University of Science and Technology (KAUST)"
 description              : &description  "Research Intern"
-description              : &description  "Tencent AI Lab"
 description              : &description  "Machine Learning Center"
+description              : &description  "Tencent AI Lab"
 url                      : https://kaiyi.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WilliamYi96/williamyi96.github.io"
@@ -106,7 +106,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/WilliamYi96"
+  github           : "WilliamYi96"
   google_plus      :
   keybase          :
   instagram        :
