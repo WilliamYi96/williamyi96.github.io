@@ -21,7 +21,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> 2020.12. Our paper CIZSL++ has been submitted to PAMI and now it's [arxiv](https://arxiv.org/abs/2101.00173) available. 
+* <span style="color:red">New!!</span> 2020.12. Our paper CIZSL++ has been submitted to PAMI. Paper on [arxiv](https://arxiv.org/abs/2101.00173) and [code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2) is available. 
 * <span style="color:red">New!!</span> 2020.12. Start research at Tencent AI Lab.
 * 2020.12. Volunteer of NeurIPS 2020. 
 * 2020.10. Reviewer of WACV 2021.
