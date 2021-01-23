@@ -32,14 +32,3 @@ Research Interests
 * 2020.04. Glad to be a MS/PhD student at KAUST.
 * 2020.02. Join CMU Xulab as a remote research intern.
 
-; Recent Papers
-; ======
-; * <span style="color:red">New!!</span>  Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki. "[CIZSL++: Creativity Inspired Generative Zero-Shot Learning](https://arxiv.org/abs/2101.00173)", PAMI Submission. [Code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
-; * Jianye Pang, **Kai Yi**, Wanguang Yin, [Min Xu](https://xulabs.github.io/#aboutxu). "[Experimental Analysis of Legendre Decomposition in Machine Learning](https://arxiv.org/abs/2008.05095)". Technical Report, arXiv: 2008.05095.
-; * **Kai Yi**, Zhiqiang Jian, Shitao Chen, [Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1015/1071.htm). [Feature Selective Small Object Detection via Knowledge-based Recurrent Attentive Neural Network](https://arxiv.org/abs/1803.05263v4). arXiv: 1803.05263v4.
-
-; Selected Publications
-; ======
-; * Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki. "[CIZSL++: Creativity Inspired Generative Zero-Shot Learning](https://arxiv.org/abs/2101.00173)", PAMI Submission. [Code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
-; * **Kai Yi**, Zhiqiang Jian, Shitao Chen, [Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1015/1071.htm). [Feature Selective Small Object Detection via Knowledge-based Recurrent Attentive Neural Network](https://arxiv.org/abs/1803.05263v4). arXiv: 1803.05263v4.
-
