@@ -13,8 +13,9 @@ Full CV is available [here](https://nbviewer.jupyter.org/github/WilliamYi96/will
 
 Education
 ---
-* B.E. of Software Engineering, [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), 2015-2019
 * MS/Ph.D. of Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), 2020-2025 (expected)
+* B.E. of Software Engineering, [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), 2015-2019
+
 
 Research experience
 ---
