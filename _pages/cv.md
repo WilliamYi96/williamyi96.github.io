@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV is available [here](https://nbviewer.jupyter.org/github/WilliamYi96/williamyi96.github.io/blob/master/files/CV_KAIYI_191115.pdf).
+Full CV is available [here](https://nbviewer.jupyter.org/github/WilliamYi96/williamyi96.github.io/blob/master/files/CV_Kai_Yi_20210213.pdf).
 
 Education
 ---
