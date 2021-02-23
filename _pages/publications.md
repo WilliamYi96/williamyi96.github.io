@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # 2021
-Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny. "[VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining](https://arxiv.org/abs/2102.10407)", arXiv, 2021. [Code](https://github.com/Vision-CAIR/VisualGPT).
+* Jun Chen, Han Guo, Kai Yi, Boyang Li, Mohamed Elhoseiny. "[VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining](https://arxiv.org/abs/2102.10407)", arXiv, 2021. [Code](https://github.com/Vision-CAIR/VisualGPT).
 * Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki. "[CIZSL++: Creativity Inspired Generative Zero-Shot Learning](https://arxiv.org/abs/2101.00173)", PAMI Submission. [Code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
 
 # 2020 and before 
