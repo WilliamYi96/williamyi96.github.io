@@ -21,6 +21,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757), homepage and code will be updated soon.    
 * 2021.03. Reviewer of IV 2021.
 * <span style="color:red">New!!</span> 2020.12. Our paper VisualGPT is on [arXiv](https://arxiv.org/abs/2102.10407).  [code](https://github.com/Vision-CAIR/VisualGPT). 
 * <span style="color:red">New!!</span> 2020.12. Our paper CIZSL++ has been submitted to PAMI. [arXiv](https://arxiv.org/abs/2101.00173) paper and [code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2) are available. 
