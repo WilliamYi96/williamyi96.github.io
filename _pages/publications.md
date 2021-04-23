@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # 2021
+* Mohamed Elhoseiny, Divyansh Jha, **Kai Yi**, Ivan Skorokhodov. "[Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation](https://arxiv.org/abs/2104.09757)", arXiv, 2021. Code will be made available.
 * Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny. "[VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining](https://arxiv.org/abs/2102.10407)", arXiv, 2021. [Code](https://github.com/Vision-CAIR/VisualGPT).
 * Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki. "[CIZSL++: Creativity Inspired Generative Zero-Shot Learning](https://arxiv.org/abs/2101.00173)", PAMI Submission. [Code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
 
