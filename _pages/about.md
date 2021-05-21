@@ -21,7 +21,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> 2021.05. Our work on unsupervised open-set recognition has been accepted to ICIP 2021!
+* <span style="color:red">New!!</span> 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
 * 2021.05. Reviewer of ITSC 2021.
 * <span style="color:red">New!!</span> 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757), homepage and code will be updated soon.    
 * 2021.03. Reviewer of IV 2021.
