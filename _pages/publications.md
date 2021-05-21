@@ -37,6 +37,6 @@ author_profile: true
 
 * Cognition-Based Deep Learning: Progresses and Perspectives           
   **Kai Yi**, Shitao Chen, Yu Chen, Chao Xia, [Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1015/1071.htm)          
-  AIAI, 2018. [[[paper]](https://link.springer.com/chapter/10.1007/978-3-319-92007-8_11)
+  AIAI, 2018. [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-92007-8_11)
 
 
