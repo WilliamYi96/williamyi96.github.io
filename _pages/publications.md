@@ -9,14 +9,17 @@ author_profile: true
 * Unsupervised Domain Alignment based Open Set Structural Recognition of Macromolecules Captured by Cryo-Electron Tomography      
   Yuchen Zeng, Gregory Howe, **Kai Yi**, Xiangrui Zeng, Jing Zhang, Yi-Wei Chang, Min Xu        
   ICIP 2021.
+  
 * Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation            
   Mohamed Elhoseiny, Divyansh Jha, **Kai Yi**, Ivan Skorokhodov           
   arXiv, 2021. [[paper]](https://arxiv.org/abs/2104.09757) [[code available soon]](https://imaginative-walks.github.io/)   
+  
 * VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining             
   Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny              
   arXiv, 2021. [[paper]](https://arxiv.org/abs/2102.10407) [[code]](https://github.com/Vision-CAIR/VisualGPT)
-* CIZSL++: Creativity Inspired Generative Zero-Shot Learning
-  Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki
+  
+* CIZSL++: Creativity Inspired Generative Zero-Shot Learning            
+  Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki               
   arXiv, 2021. [[paper]](https://arxiv.org/abs/2101.00173) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
 
 # 2020 and before 
