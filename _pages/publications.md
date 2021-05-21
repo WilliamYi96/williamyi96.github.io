@@ -25,7 +25,7 @@ author_profile: true
 # 2020 and before 
 * Experimental Analysis of Legendre Decomposition in Machine Learning                 
   Jianye Pang, **Kai Yi**, Wanguang Yin, [Min Xu](https://xulabs.github.io/#aboutxu)               
-  Technical Report, [[arXiv]](https://arxiv.org/abs/2008.05095)
+  Technical Report, 2020. [[arXiv]](https://arxiv.org/abs/2008.05095)
   
 * Feature Selective Small Object Detection via Knowledge-based Recurrent Attentive Neural Network                     
   **Kai Yi**, Zhiqiang Jian, Shitao Chen, [Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1015/1071.htm)                    
