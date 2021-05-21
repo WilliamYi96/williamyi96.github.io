@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student at [KAUST](https://www.kaust.edu.sa/en) under the supervision of Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home) and a research intern at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index). Before that, I received my B.Eng with honor from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. I've interned at [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime](https://www.sensetime.com/en). 
+I'm a graduate student at [KAUST](https://www.kaust.edu.sa/en) under the supervision of Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home). Before that, I received my B.Eng with honor from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. I've interned at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime](https://www.sensetime.com/en). 
 
 
 Research Interests
@@ -21,10 +21,12 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> 2021.05. Our work on unsupervised open-set recognition has been accepted to ICIP 2021!
+* 2021.05. Reviewer of ITSC 2021.
 * <span style="color:red">New!!</span> 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757), homepage and code will be updated soon.    
 * 2021.03. Reviewer of IV 2021.
-* <span style="color:red">New!!</span> 2020.12. Our paper VisualGPT is on [arXiv](https://arxiv.org/abs/2102.10407).  [code](https://github.com/Vision-CAIR/VisualGPT). 
-* <span style="color:red">New!!</span> 2020.12. Our paper CIZSL++ has been submitted to PAMI. [arXiv](https://arxiv.org/abs/2101.00173) paper and [code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2) are available. 
+* 2020.12. Our paper VisualGPT is on [arXiv](https://arxiv.org/abs/2102.10407).  [code](https://github.com/Vision-CAIR/VisualGPT). 
+* 2020.12. Our paper CIZSL++ has been submitted to PAMI. [arXiv](https://arxiv.org/abs/2101.00173) paper and [code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2) are available. 
 * 2020.12. Start research at Tencent AI Lab.
 * 2020.12. Volunteer of NeurIPS 2020. 
 * 2020.10. Reviewer of WACV 2021.
