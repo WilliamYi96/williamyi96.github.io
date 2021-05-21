@@ -6,10 +6,10 @@ author_profile: true
 
 Address
 ---
-
-Visual Computing Center             
-King Abdullah University of Science and Technology                 
-Thuwal 23955-6900, Kingdom of Saudi Arabia
+Visual Computing Center
+King Abdullah University of Science and Technology (KAUST)
+AI-Khawarizmi Building (Bldg. #1) | # 4335-WS17
+Thuwal 23955-6900, Saudi Arabia
 
 Email
 ---
