@@ -13,14 +13,17 @@ I'm a graduate student at [KAUST](https://www.kaust.edu.sa/en) under the supervi
 
 Research Interests
 ======
-* Zero-/Few-Shot Learning
-* Unsupervised Learning
+* Zero-Shot Learning
 * Deep Generative Models
+* Probabilistic Modeling
+* Unsupervised Learning
 * Computational Biology
-* Domain Adaptation/Generalization
+* Domain Generalization
 
 <span style="color:red">What's New</span>
 ======
+* 2021.03. Volunteer of ICML 2021.
+* 2021.06. Reviewer of BMVC 2021.
 * <span style="color:red">New!!</span> 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
 * 2021.05. Reviewer of ITSC 2021.
 * <span style="color:red">New!!</span> 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757), homepage and code will be updated soon.    
