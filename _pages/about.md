@@ -22,7 +22,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
-* 2021.03. Volunteer of ICML 2021.
+* 2021.07. Volunteer of ICML 2021.
 * 2021.06. Reviewer of BMVC 2021.
 * <span style="color:red">New!!</span> 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
 * 2021.05. Reviewer of ITSC 2021.
