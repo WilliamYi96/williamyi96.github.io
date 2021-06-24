@@ -12,7 +12,7 @@ author_profile: true
   
 * Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation            
   Mohamed Elhoseiny, Divyansh Jha, **Kai Yi**, Ivan Skorokhodov           
-  arXiv, 2021. [[paper]](https://arxiv.org/abs/2104.09757) [[code available soon]](https://imaginative-walks.github.io/)   
+  arXiv, 2021. [[project page]](https://imaginative-walks.github.io/) [[paper]](https://arxiv.org/abs/2104.09757) [[code]](https://github.com/Vision-CAIR/GRaW)   
   
 * VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining             
   Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny              
