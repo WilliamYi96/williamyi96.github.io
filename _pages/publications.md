@@ -7,7 +7,7 @@ author_profile: true
 
 # 2021
 * Disentangling semantic features of macromolecules in Cryo-Electron Tomography                                                         
-  **Kai Yi**, Jianye Pang, Yungeng Zhang, Xiangrui Zeng, Min Xu
+  **Kai Yi**, Jianye Pang, Yungeng Zhang, Xiangrui Zeng, Min Xu                                                             
   arXiv, 2021-06. [[paper]](https://arxiv.org/abs/2106.14192)
 
 * Unsupervised Domain Alignment based Open Set Structural Recognition of Macromolecules Captured by Cryo-Electron Tomography      
