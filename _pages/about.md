@@ -26,7 +26,7 @@ Research Interests
 * 2021.06. Reviewer of BMVC 2021.
 * <span style="color:red">New!!</span> 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
 * 2021.05. Reviewer of ITSC 2021.
-* <span style="color:red">New!!</span> 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757)! [homepage](https://imaginative-walks.github.io/)                     
+* <span style="color:red">New!!</span> 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757)! --> [homepage](https://imaginative-walks.github.io/)                     
 * 2021.03. Reviewer of IV 2021.
 * 2020.12. Our paper VisualGPT is on [arXiv](https://arxiv.org/abs/2102.10407).  [code](https://github.com/Vision-CAIR/VisualGPT). 
 * 2020.12. Our paper CIZSL++ has been submitted to PAMI. [arXiv](https://arxiv.org/abs/2101.00173) paper and [code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2) are available. 
