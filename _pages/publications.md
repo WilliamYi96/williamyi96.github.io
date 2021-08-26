@@ -12,7 +12,7 @@ author_profile: true
 
 * Unsupervised Domain Alignment based Open Set Structural Recognition of Macromolecules Captured by Cryo-Electron Tomography      
   Yuchen Zeng, Gregory Howe, **Kai Yi**, Xiangrui Zeng, Jing Zhang, Yi-Wei Chang, Min Xu        
-  ICIP 2021.
+  ICIP 2021. [[paper]](https://ieeexplore.ieee.org/document/9506205)
   
 * Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation            
   Mohamed Elhoseiny, Divyansh Jha, **Kai Yi**, Ivan Skorokhodov           
