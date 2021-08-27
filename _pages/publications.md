@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # 2021
-* Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation
+* Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation                
   Divyansh Jha*, **Kai Yi***, Ivan Skorokhodov, Mohamed Elhoseiny           
   arXiv, 2021-04. [[project page]](https://imaginative-walks.github.io/) [[paper]](https://arxiv.org/abs/2104.09757) [[code]](https://github.com/Vision-CAIR/GRaWD)   
  
