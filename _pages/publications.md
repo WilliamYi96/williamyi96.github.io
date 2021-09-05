@@ -33,7 +33,7 @@ author_profile: true
   
 * Feature Selective Small Object Detection via Knowledge-based Recurrent Attentive Neural Network                     
   **Kai Yi**, Zhiqiang Jian, Shitao Chen, [Nanning Zheng](http://www.aiar.xjtu.edu.cn/info/1015/1071.htm)                    
-  arXiv, 2019. [[paper]](https://arxiv.org/abs/1803.05263v4)
+  Technical Report, 2019. [[paper]](https://arxiv.org/abs/1803.05263v4)
   
 * Affine LBG for Codebook Training of Univariate Linear Approximation          
   Tiannan Dong, Jianji Wang, Meng Yang, **Yi Kai**, Nanning Zheng          
