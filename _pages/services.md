@@ -2,7 +2,7 @@
 layout: archive
 title: "Services"
 permalink: /services/
-author_profile: false
+author_profile: true
 ---
 
 ## Professional Services
