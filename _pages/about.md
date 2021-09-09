@@ -22,6 +22,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* 2021.09. Reviewer of WACV 2022.
 * 2021.07. Volunteer of ICML 2021.
 * 2021.06. Reviewer of BMVC 2021.
 * <span style="color:red">New!!</span> 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
@@ -30,7 +31,7 @@ Research Interests
 * 2021.03. Reviewer of IV 2021.
 * 2020.12. Our paper VisualGPT is on [arXiv](https://arxiv.org/abs/2102.10407).  [code](https://github.com/Vision-CAIR/VisualGPT). 
 * 2020.12. Our paper CIZSL++ has been submitted to PAMI. [arXiv](https://arxiv.org/abs/2101.00173) paper and [code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2) are available. 
-* 2020.12. Start research at Tencent AI Lab.
+* 2020.12. Start research internship at Tencent AI Lab.
 * 2020.12. Volunteer of NeurIPS 2020. 
 * 2020.10. Reviewer of WACV 2021.
 * 2020.08. Technical report of Legendre decomposition in machine learning is available on [arXiv](https://arxiv.org/abs/2008.05095).
