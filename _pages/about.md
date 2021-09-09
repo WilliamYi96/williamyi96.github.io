@@ -32,6 +32,3 @@ Research Interests
 * 2020.04. Glad to be a MS/PhD student at KAUST.
 * 2020.02. Join CMU Xulab as a remote research intern.
       
-**Professional Services**
-* Reviewer: WACV 2022, BMVC 2021, ITSC 2021, IV 2021, WACV 2021, BMVC 2020, ITSC 2020.
-* Conference Volunteer: ICML 2021, NeurIPS 2020
