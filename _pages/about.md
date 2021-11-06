@@ -13,12 +13,11 @@ I'm a graduate student at [KAUST](https://www.kaust.edu.sa/en) under the supervi
 
 Research Interests
 ======
-* Zero-Shot Learning
-* Deep Generative Models
-* Probabilistic Modeling
-* Unsupervised Learning
-* Computational Biology
-* Domain Generalization
+My primary research interests lie in theory and application of conceptual-level knowledge transfer, which mainly focuses on the following questions：
+* **How** to formalize and generalize conceptual-level knowledge transfer？
+* **When** can knowledge transfer have positive influences?
+* **What** can be the limit of knowledge transfer with limited resources?
+* **Where** can we efficiently utilize conceptual-level knowledge transfer?
 
 <span style="color:red">What's New</span>
 ======
