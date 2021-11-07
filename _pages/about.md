@@ -19,6 +19,8 @@ My primary research interests lie in theory and application of conceptual-level 
 * **What** can be the limit of knowledge transfer with limited resources?
 * **Where** can we efficiently utilize conceptual-level knowledge transfer?
 
+Specifically, now I work on Zero-Shot Learning, Vision & Language, Probabilistic Modeling, and Unsupervised Learning. 
+
 <span style="color:red">What's New</span>
 ======
 * <span style="color:red">New!!</span> 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
