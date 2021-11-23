@@ -9,10 +9,10 @@ author_profile: true
 
 <!-- ## Professional Services -->
 ### Reviewer
-WACV 2022, BMVC 2021, ITSC 2021, IV 2021, WACV 2021, BMVC 2020, ITSC 2020, TNNLS.
+CVPR 2022, WACV 2022, BMVC 2021, ITSC 2021, IV 2021, WACV 2021, BMVC 2020, ITSC 2020, TNNLS.
 
 ### Conference Volunteer
-ICML 2021, NeurIPS 2020
+NeurIPS 2021, ICML 2021, NeurIPS 2020
 
 ### Other Services
 KAUST CEMSE Student Ambassador
