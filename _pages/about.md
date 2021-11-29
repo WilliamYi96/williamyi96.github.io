@@ -13,11 +13,8 @@ I'm a graduate student at [KAUST](https://www.kaust.edu.sa/en) under the supervi
 
 Research Interests
 ======
-My primary research interests lie in theory and application of conceptual-level knowledge transfer, which mainly focuses on the following questions：
-* **How** to formalize and generalize conceptual-level knowledge transfer？
-* **When** can knowledge transfer have positive influences?
-* **What** can be the limit of knowledge transfer with limited resources?
-* **Where** can we efficiently utilize conceptual-level knowledge transfer?
+* Conceptual-level knowledge transfer learning: theories and applications.
+* Machine learning optimization in the large-scale data/model era.
 
 Specifically, now I work on Zero-Shot Learning, Vision & Language, Probabilistic Modeling, and Unsupervised Learning. 
 
