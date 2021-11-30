@@ -20,6 +20,7 @@ Specifically, now I work on Zero-Shot Learning, Vision & Language, Probabilistic
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> 2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://zero-shot-learning.github.io/daczsl) under construction!
 * <span style="color:red">New!!</span> 2021.11. Successfully defended my Master's thesis!
 * 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
 * 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757)! --> [homepage](https://imaginative-walks.github.io/)               
