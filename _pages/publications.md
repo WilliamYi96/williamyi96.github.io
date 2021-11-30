@@ -7,7 +7,7 @@ author_profile: true
 
 # 2021
 * Domain-Aware Continual Zero-Shot Learning       
-  **Kai Yi**, Mohamed Elhoseiny
+  **Kai Yi**, Mohamed Elhoseiny                       
   Master Thesis, 2021. [[thesis page]](https://repository.kaust.edu.sa/handle/10754/673833) [[homepage]](https://zero-shot-learning.github.io/daczsl/)
   
 * Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation                
