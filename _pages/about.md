@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student at [KAUST](https://www.kaust.edu.sa/en) under the supervision of Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home). Before that, I received my B.Eng with honor from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. I've interned at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime](https://www.sensetime.com/en). 
+I'm going to be a 2022 Spring PhD student under the supervision of Prof. [Peter Richtárik](https://richtarik.org/). Before that, I received my Master from KAUST in Dec. 2021 and B.Eng with honor from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. I've interned at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime](https://www.sensetime.com/en). 
 
 
 Research Interests
@@ -20,6 +20,8 @@ Specifically, now I work on Zero-Shot Learning, Vision & Language, Probabilistic
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> 2021.12. Glad to be a PhD student at Optimization and Machine Learning Lab led by Prof. [Peter Richtárik]((https://richtarik.org/))!
+* <span style="color:red">New!!</span> 2021.12. Graduated from KAUST with a Master degree. Thanks a lot to my MS supervisor Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home) and colleagues. Also congratulations to myself!
 * <span style="color:red">New!!</span> 2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://zero-shot-learning.github.io/daczsl) under construction!
 * <span style="color:red">New!!</span> 2021.11. Successfully defended my Master's thesis!
 * 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
@@ -31,4 +33,4 @@ Specifically, now I work on Zero-Shot Learning, Vision & Language, Probabilistic
 * 2020.05. Start research at KAUST Vision-CAIR group.
 * 2020.04. Glad to be a MS/PhD student at KAUST.
 * 2020.02. Join CMU Xulab as a remote research intern.
-      
+* Update till 2020.
