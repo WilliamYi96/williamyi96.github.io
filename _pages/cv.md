@@ -13,13 +13,14 @@ Full CV is available [here](https://nbviewer.jupyter.org/github/WilliamYi96/will
 
 Education
 ---
-* MS/Ph.D. of Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), 2020-2025 (expected)
+* Ph.D. of Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), 2021-Now
+* Master of Computer Science, [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), 2020-2021
 * B.E. of Software Engineering, [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), 2015-2019
 
 
 Research experience
 ---
-* 2020.05 - : Research Assistant at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), supervised by Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/)
+* 2020.05 - 2021.12: Research Assistant at [King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en), supervised by Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/)
 * 2020.12 - 2021.04 : Research Intern at Machine Learning Center, [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), supervised by Dr. [Jiaxiang Wu](https://scholar.google.com/citations?user=puazh38AAAAJ&hl=en).
 * 2020.02 - 2020.12 : Research Intern at CMU [Xulab](https://xulabs.github.io/) under the supervision of Prof. [Min Xu](https://sites.google.com/view/xulab/home)
 * 2019.04 - 2019.09 : Research Intern at NUS [CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0) under the supervision of Prof. [Angela Yao](https://sites.google.com/comp.nus.edu.sg/ayao/home)
