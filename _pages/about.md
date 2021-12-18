@@ -33,4 +33,4 @@ Specifically, now I work on Zero-Shot Learning, Vision & Language, Probabilistic
 * 2020.05. Start research at KAUST Vision-CAIR group.
 * 2020.04. Glad to be a MS/PhD student at KAUST.
 * 2020.02. Join CMU Xulab as a remote research intern.
-* Update till 2020.
+* Update till 2020.    
