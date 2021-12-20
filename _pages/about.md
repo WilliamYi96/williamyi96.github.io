@@ -13,10 +13,10 @@ I'm a PhD student under the supervision of Prof. [Peter Richtárik](https://rich
 
 Research Interests
 ======
-* Conceptual-level knowledge transfer learning: theories and applications.
 * Machine learning optimization in the large-scale data/model era.
+* Conceptual-level knowledge transfer learning: theories and applications.
 
-Specifically, now I work on Zero-Shot Learning, Vision & Language, Probabilistic Modeling, and Unsupervised Learning. 
+Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning.
 
 <span style="color:red">What's New</span>
 ======
