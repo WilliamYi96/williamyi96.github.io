@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 # 2021
-* Domain-Aware Continual Zero-Shot Learning
-  **Kai Yi**, Mohamed Elhoseiny
+* Domain-Aware Continual Zero-Shot Learning          
+  **Kai Yi**, Mohamed Elhoseiny           
   arXiv, 2021. [[paper]](https://arxiv.org/abs/2112.12989) [[project homepage (coming soon)]](https://zero-shot-learning.github.io/daczsl/)
   
 * Domain-Aware Continual Zero-Shot Learning       
