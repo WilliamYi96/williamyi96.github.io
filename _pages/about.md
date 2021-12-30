@@ -20,10 +20,11 @@ Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> 2021.12. DACZSL is available on [arXiv](https://arxiv.org/abs/2112.12989)
 * <span style="color:red">New!!</span> 2021.12. Glad to be a PhD student at Optimization and Machine Learning Lab led by Prof. [Peter Richtárik]((https://richtarik.org/))!
 * <span style="color:red">New!!</span> 2021.12. Graduated from KAUST with a Master degree. Thanks a lot to my MS supervisor Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home) and colleagues. Also congratulations to myself!
-* <span style="color:red">New!!</span> 2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://zero-shot-learning.github.io/daczsl) under construction!
-* <span style="color:red">New!!</span> 2021.11. Successfully defended my Master's thesis!
+* 2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://zero-shot-learning.github.io/daczsl) under construction!
+* 2021.11. Successfully defended my Master's thesis!
 * 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
 * 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757)! --> [homepage](https://imaginative-walks.github.io/)               
 * 2020.12. Our paper VisualGPT is on [arXiv](https://arxiv.org/abs/2102.10407).  [code](https://github.com/Vision-CAIR/VisualGPT). 
