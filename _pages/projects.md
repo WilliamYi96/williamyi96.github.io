@@ -5,6 +5,7 @@ author_profile: true
 ---
 Current Projects
 ---
+* Optimization in Federated Learning 
 * Unified Transfer Learning (Domain-Aware Continual Zero-Shot Learning)
 * TBD...
 
