@@ -8,7 +8,7 @@ author_profile: true
 # 2021
 * Domain-Aware Continual Zero-Shot Learning          
   **Kai Yi**, Mohamed Elhoseiny           
-  arXiv, 2021. [[paper]](https://arxiv.org/abs/2112.12989) [[project homepage (coming soon)]](https://zero-shot-learning.github.io/daczsl/)
+  arXiv, 2021. [[paper]](https://arxiv.org/abs/2112.12989) [[project]](https://kaiyi.me/p/daczsl)
   
 * Domain-Aware Continual Zero-Shot Learning       
   **Kai Yi**                       
@@ -16,7 +16,7 @@ author_profile: true
   
 * Imaginative Walks: Generative Random Walk Deviation Loss for Improved Unseen Learning Representation                
   Divyansh Jha\*, **Kai Yi**\*, Ivan Skorokhodov, Mohamed Elhoseiny           
-  arXiv, 2021. [[project page]](https://imaginative-walks.github.io/) [[paper]](https://arxiv.org/abs/2104.09757) [[code]](https://github.com/Vision-CAIR/GRaWD)   
+  arXiv, 2021. [[project page]](https://kaiyi.me/p/grawd) [[paper]](https://arxiv.org/abs/2104.09757) [[code]](https://github.com/Vision-CAIR/GRaWD)   
  
 * Disentangling semantic features of macromolecules in Cryo-Electron Tomography                                                         
   **Kai Yi**, Jianye Pang, Yungeng Zhang, Xiangrui Zeng, Min Xu                                                             
