@@ -23,9 +23,9 @@ Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning
 * 2022.01-02. Reviewer for CVPR22, ICML22, IJCV.
 * 2022.02. Teaching Assistant for CS283: Deep Generative Modeling.
 * <span style="color:red">New!!</span> 2021.12. DACZSL is available on [arXiv](https://arxiv.org/abs/2112.12989).
-* <span style="color:red">New!!</span> 2021.12. Glad to be a PhD student at Optimization and Machine Learning Lab led by Prof. [Peter Richtárik]((https://richtarik.org/))!
-* <span style="color:red">New!!</span> 2021.12. Graduated from KAUST with a Master degree. Thanks a lot to my MS supervisor Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home) and colleagues. Also congratulations to myself!
-* 2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://zero-shot-learning.github.io/daczsl) under construction!
+* **2021.12. Glad to be a PhD student at Optimization and Machine Learning Lab led by Prof. [Peter Richtárik]((https://richtarik.org/))!**
+* **<span style="color:red">New!!</span> 2021.12. Graduated from KAUST with a Master degree. Thanks a lot to my MS supervisor Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home) and colleagues. Also congratulations to myself!**
+* **2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://kaiyi.me/p/daczsl)**
 * 2021.11. Successfully defended my Master's thesis!
 * 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
 * 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757)! --> [homepage](https://imaginative-walks.github.io/)               
@@ -34,6 +34,5 @@ Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning
 * 2020.12. Start research internship at Tencent AI Lab.
 * 2020.08. Technical report of Legendre decomposition in machine learning is available on [arXiv](https://arxiv.org/abs/2008.05095).
 * 2020.05. Start research at KAUST Vision-CAIR group.
-* 2020.04. Glad to be a MS/PhD student at KAUST.
-* 2020.02. Join CMU Xulab as a remote research intern.
-* Update till 2020.    
+* **2020.04. Glad to be a MS/PhD student at KAUST.**
+* 2020.02. Join CMU Xulab as a remote research intern.  
