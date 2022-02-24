@@ -24,7 +24,7 @@ Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning
 * 2022.02. Teaching Assistant for CS283: Deep Generative Modeling.
 * <span style="color:red">New!!</span> 2021.12. DACZSL is available on [arXiv](https://arxiv.org/abs/2112.12989).
 * **2021.12. Glad to be a PhD student at Optimization and Machine Learning Lab led by Prof. [Peter Richtárik]((https://richtarik.org/))!**
-* **<span style="color:red">New!!</span> 2021.12. Graduated from KAUST with a Master degree. Thanks a lot to my MS supervisor Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home) and colleagues. Also congratulations to myself!**
+* **2021.12. Graduated from KAUST with a Master degree. Thanks a lot to my MS supervisor Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home) and colleagues. Also congratulations to myself!**
 * **2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://kaiyi.me/p/daczsl)**
 * 2021.11. Successfully defended my Master's thesis!
 * 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
