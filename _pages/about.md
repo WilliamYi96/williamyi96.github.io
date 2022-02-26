@@ -28,6 +28,7 @@ Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning
 * **2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://kaiyi.me/p/daczsl)**
 * 2021.11. Successfully defended my Master's thesis!
 * 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
+* 2021.04.28. [TALK] CIZSL++ at KAUST AI Initiative. [link](https://youtu.be/WgydkhhKkdg?list=PLC28kDljnOrj-_w-MHKW36gVRvUe3XFjx).
 * 2021.04. Our imaginative walk paper is available on [arXiv](https://arxiv.org/abs/2104.09757)! --> [homepage](https://imaginative-walks.github.io/)               
 * 2020.12. Our paper VisualGPT is on [arXiv](https://arxiv.org/abs/2102.10407).  [code](https://github.com/Vision-CAIR/VisualGPT). 
 * 2020.12. Our paper CIZSL++ has been submitted to PAMI. [arXiv](https://arxiv.org/abs/2101.00173) paper and [code](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2) are available. 
