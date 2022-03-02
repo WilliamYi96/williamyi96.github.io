@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2022
+* VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining             
+  Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny              
+  CVPR, 2022. [[paper]](https://arxiv.org/abs/2102.10407) [[code]](https://github.com/Vision-CAIR/VisualGPT)
+  
+* CIZSL++: Creativity Inspired Generative Zero-Shot Learning            
+  Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki               
+  T-PAMI Major Revision. [[paper]](https://arxiv.org/abs/2101.00173) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
+  
 # 2021
 * Domain-Aware Continual Zero-Shot Learning          
   **Kai Yi**, Mohamed Elhoseiny           
@@ -25,14 +34,6 @@ author_profile: true
 * Unsupervised Domain Alignment based Open Set Structural Recognition of Macromolecules Captured by Cryo-Electron Tomography      
   Yuchen Zeng, Gregory Howe, **Kai Yi**, Xiangrui Zeng, Jing Zhang, Yi-Wei Chang, Min Xu        
   ICIP 2021. [[paper]](https://ieeexplore.ieee.org/document/9506205)
-  
-* VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining             
-  Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny              
-  arXiv, 2021. [[paper]](https://arxiv.org/abs/2102.10407) [[code]](https://github.com/Vision-CAIR/VisualGPT)
-  
-* CIZSL++: Creativity Inspired Generative Zero-Shot Learning            
-  Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki               
-  arXiv, 2021. [[paper]](https://arxiv.org/abs/2101.00173) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
 
 # 2020 and before 
 * Experimental Analysis of Legendre Decomposition in Machine Learning                 
