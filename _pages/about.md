@@ -37,4 +37,4 @@ Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning
 * 2020.08. Technical report of Legendre decomposition in machine learning is available on [arXiv](https://arxiv.org/abs/2008.05095).
 * 2020.05. Start research at KAUST Vision-CAIR group.
 * **2020.04. Glad to be a MS/PhD student at KAUST.**
-* 2020.02. Join CMU Xulab as a remote research intern.  
+* 2020.02. Join CMU Xulab as a remote research intern.   
