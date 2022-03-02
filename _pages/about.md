@@ -21,7 +21,7 @@ Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning
 <span style="color:red">What's New</span>
 ======
 * 2022.03. Our paper [VisualGPT](https://arxiv.org/abs/2102.10407) is accepted by CVPR22! [code](https://github.com/Vision-CAIR/VisualGPT) has been released. 
-* 2022.01-03. Reviewer for CVPR22, ICML22, IJCV.
+* 2022.01-04. Reviewer for ECCV22, CVPR22, ICML22, IJCV.
 * 2022.02. Teaching Assistant for CS283: Deep Generative Modeling.
 * <span style="color:red">New!!</span> 2021.12. DACZSL is available on [arXiv](https://arxiv.org/abs/2112.12989).
 * **2021.12. Glad to be a PhD student at Optimization and Machine Learning Lab led by Prof. [Peter Richtárik](https://richtarik.org/)!**
