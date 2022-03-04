@@ -20,6 +20,7 @@ Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> 2022.03. HGR-Net for large-scale zero-shot learning is available on [arXiv](https://arxiv.org/abs/2203.01386)
 * 2022.03. Our paper [VisualGPT](https://arxiv.org/abs/2102.10407) is accepted by CVPR22! [code](https://github.com/Vision-CAIR/VisualGPT) has been released. 
 * 2022.01-04. Reviewer for ECCV22, CVPR22, ICML22, IJCV.
 * 2022.02. Teaching Assistant for CS283: Deep Generative Modeling.
