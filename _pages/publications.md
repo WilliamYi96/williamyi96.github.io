@@ -8,7 +8,7 @@ author_profile: true
 # 2022
 * Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification            
   Kai Yi, Xiaoqian Shen, Yunhao Gou, Mohamed Elhoseiny               
-  arXiv, 2022. [[paper]](https://arxiv.org/abs/2203.01386) [[project]](https://kaiyi.me/p/hgr_net) [[code soon]]
+  arXiv, 2022. [[paper]](https://arxiv.org/abs/2203.01386) [[project]](https://kaiyi.me/p/hgr_net) [[code soon]]()
   
 * VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining             
   Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny              
