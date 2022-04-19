@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student under the supervision of Prof. [Peter Richtárik](https://richtarik.org/). Before that, I received my Master from KAUST in Dec. 2021 and B.Eng with honor from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. I've interned at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime](https://www.sensetime.com/en). 
+I'm a PhD student under the supervision of Prof. [Peter Richtárik](https://richtarik.org/). Before that, I received my Master from [KAUST](https://kaust.edu.sa/en) in Dec. 2021 and B.Eng with honor from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. I've interned at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime](https://www.sensetime.com/en). 
 
 
 Research Interests
@@ -16,13 +16,15 @@ Research Interests
 * Machine learning optimization in the large-scale data/model era.
 * Conceptual-level knowledge transfer learning: theories and applications.
 
-Specifically, now I work on Machine Learning Optimization and Zero-Shot Learning.
+Specifically, now I work on Machine Learning Optimization, Federated Learning and a bit Zero-Shot Learning.
 
 <span style="color:red">What's New</span>
 ======
+* 2022.04. Paper "Creative Walk Adversarial Networks: Novel Art Generation with Probabilistic Random Walk Deviation from Style Norms" has been accepted by ICCC 2022!
+* 2022.04. Short paper "Language-Guided Imaginative Walks: Generative Random Walk Deviation Loss for Unseen Class Recognition using Text" has been accepted by [CVPR22 L3D-IVU Workshop](https://sites.google.com/view/l3d-ivu/overview?authuser=0)!
 * <span style="color:red">New!!</span> 2022.03. HGR-Net for large-scale zero-shot learning is available on [arXiv](https://arxiv.org/abs/2203.01386)
 * 2022.03. Our paper [VisualGPT](https://arxiv.org/abs/2102.10407) is accepted by CVPR22! [code](https://github.com/Vision-CAIR/VisualGPT) has been released. 
-* 2022.01-04. Reviewer for ECCV22, CVPR22, ICML22, IJCV.
+* 2022.01-05. Reviewer for ECCV22, CVPR22, ICML22, IJCV, TIP.
 * 2022.02. Teaching Assistant for CS283: Deep Generative Modeling.
 * <span style="color:red">New!!</span> 2021.12. DACZSL is available on [arXiv](https://arxiv.org/abs/2112.12989).
 * **2021.12. Glad to be a PhD student at Optimization and Machine Learning Lab led by Prof. [Peter Richtárik](https://richtarik.org/)!**
