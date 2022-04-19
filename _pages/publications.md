@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 # 2022
-* Short paper “Language-Guided Imaginative Walks: Generative Random Walk Deviation Loss for Unseen Class Recognition using Text”
-  **Kai Yi**, Divyansh Jha, Ivan Skorokhodov, Mohamed Elhoseiny 
-  CVPR, 2022, L3D-IVU Workshop (Short Paper)
+* Language-Guided Imaginative Walks: Generative Random Walk Deviation Loss for Unseen Class Recognition using Text         
+  **Kai Yi**, Divyansh Jha, Ivan Skorokhodov, Mohamed Elhoseiny              
+  CVPR, 2022, L3D-IVU Workshop (Short Paper)       
   
-* Creative Walk Adversarial Networks: Novel Art Generation with Probabilistic Random Walk Deviation from Style Norms
-  Divyansh Jha\*, **Kai Yi**, Ivan Skorokhodov, Mohamed Elhoseiny\*
+* Creative Walk Adversarial Networks: Novel Art Generation with Probabilistic Random Walk Deviation from Style Norms         
+  Divyansh Jha\*, **Kai Yi**, Ivan Skorokhodov, Mohamed Elhoseiny\*            
   ICCC, 2022. [[paper]]([[project page]](https://kaiyi.me/p/grawd) [[paper]](https://arxiv.org/abs/2104.09757) [[code]](https://github.com/Vision-CAIR/GRaWD))
 
 * Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification            
