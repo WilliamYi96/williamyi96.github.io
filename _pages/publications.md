@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 # 2022
+* EF-BV: A Unified Theory of Error Feedback and Variance Reduction Mechanisms for Biased and Unbiased Compression in Distributed Optimization             
+  Laurent Condat, **Kai Yi**, Peter Richtárik                          
+  arXiv, 2022. [[paper]](https://arxiv.org/abs/2205.04180)
+
 * Language-Guided Imaginative Walks: Generative Random Walk Deviation Loss for Unseen Class Recognition using Text         
   **Kai Yi**, Divyansh Jha, Ivan Skorokhodov, Mohamed Elhoseiny              
   CVPR, 2022, L3D-IVU Workshop (Short Paper). [[paper]](https://arxiv.org/abs/2104.09757)      
