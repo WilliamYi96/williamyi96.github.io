@@ -20,6 +20,8 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 
 <span style="color:red">What's New</span>
 ======
+* 2022.06. Continue serving as a [Student Ambassador](https://cemse.kaust.edu.sa/ask-a-student) 2022-2023 at KAUST CEMSE! 
+* 2022.06. Will serve as an Orientation Leader at KAUST 2022 Fall.        
 * 2022.05. Our paper "EF-BV: A Unified Theory of Error Feedback and Variance Reduction Mechanisms for Biased and Unbiased Compression in Distributed Optimization" is available on [arXiv](https://arxiv.org/abs/2205.04180)！
 * 2022.04. Our paper "Creative Walk Adversarial Networks: Novel Art Generation with Probabilistic Random Walk Deviation from Style Norms" has been accepted by ICCC 2022!
 * 2022.04. Our short paper "Language-Guided Imaginative Walks: Generative Random Walk Deviation Loss for Unseen Class Recognition using Text" has been accepted by [CVPR22 L3D-IVU Workshop](https://sites.google.com/view/l3d-ivu/overview?authuser=0)!
