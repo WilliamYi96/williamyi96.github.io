@@ -20,6 +20,7 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 
 <span style="color:red">What's New</span>
 ======
+* 2022.06. Reviewer for NeurIPS 2022.
 * 2022.06. Continue serving as a [Student Ambassador](https://cemse.kaust.edu.sa/ask-a-student) 2022-2023 at KAUST CEMSE! 
 * 2022.06. Will serve as an Orientation Leader at KAUST 2022 Fall.        
 * 2022.05. Our paper "EF-BV: A Unified Theory of Error Feedback and Variance Reduction Mechanisms for Biased and Unbiased Compression in Distributed Optimization" is available on [arXiv](https://arxiv.org/abs/2205.04180)！
