@@ -24,7 +24,7 @@ author_profile: true
   
 * VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining             
   Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny              
-  CVPR, 2022. [[paper]](https://arxiv.org/abs/2102.10407) [[code]](https://github.com/Vision-CAIR/VisualGPT)
+  CVPR, 2022. [[arXiv]](https://arxiv.org/abs/2102.10407) [[CVF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VisualGPT_Data-Efficient_Adaptation_of_Pretrained_Language_Models_for_Image_Captioning_CVPR_2022_paper.pdf) [[code]](https://github.com/Vision-CAIR/VisualGPT)
   
 * CIZSL++: Creativity Inspired Generative Zero-Shot Learning            
   Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki               
