@@ -16,7 +16,7 @@ author_profile: true
   
 * Creative Walk Adversarial Networks: Novel Art Generation with Probabilistic Random Walk Deviation from Style Norms         
   Divyansh Jha\*, **Kai Yi**, Ivan Skorokhodov, Mohamed Elhoseiny\*            
-  ICCC, 2022. [[project page]](https://kaiyi.me/p/grawd) [[paper]](https://arxiv.org/abs/2104.09757) [[code]](https://github.com/Vision-CAIR/GRaWD)
+  ICCC, 2022. [[project page]](https://kaiyi.me/p/grawd) [[paper]](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_11L_Jha-et-al..pdf) [[code]](https://github.com/Vision-CAIR/GRaWD)
 
 * Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification            
   **Kai Yi**, Xiaoqian Shen, Yunhao Gou, Mohamed Elhoseiny               
