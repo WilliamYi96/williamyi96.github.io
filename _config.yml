@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kai Yi's Homepage"
 title_separator          : "-"
 name                     : &name "Kai Yi"
-description              : &description "PhD student at KAUST focusing on computer vision and machine learning"
+description              : &description "PhD student at KAUST focusing on machine learning and optimization"
 description              : &description  "PhD Student"
 description              : &description  "King Abdullah University of Science and Technology (KAUST)"
 # description              : &description  "Research Intern"
@@ -88,7 +88,7 @@ author:
   name             : "Kai Yi"
   avatar           : "me.jpg"
   bio              : |
-     Graduate Student, <br>
+     PhD Student, <br>
      King Abdullah University of Science and Technology (KAUST) <br>
   location         : "Thuwal, Saudi Arabia"
   employer         :
