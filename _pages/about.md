@@ -20,6 +20,8 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 
 <span style="color:red">What's New</span>
 ======
+* 2022.06. Reviewer for WACV 2023. 
+* 2022.06. I moved from Building-1 L4 to Building-1 L2.
 * 2022.06. Reviewer for NeurIPS 2022.
 * 2022.06. Continue serving as a [Student Ambassador](https://cemse.kaust.edu.sa/ask-a-student) 2022-2023 at KAUST CEMSE! 
 * 2022.06. Will serve as an Orientation Leader at KAUST 2022 Fall.        
