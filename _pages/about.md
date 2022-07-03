@@ -20,7 +20,7 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> 2022.07. [HGR-Net](https://arxiv.org/abs/2203.01386) for large-scale zero-shot learning accepted by ECCV 2022! Code is available [here](https://github.com/WilliamYi96/HGR-Net).
+* <span style="color:red">New!!</span> 2022.07. [HGR-Net](https://arxiv.org/abs/2203.01386) for large-scale zero-shot learning has been accepted by ECCV 2022! Code is available [here](https://github.com/WilliamYi96/HGR-Net).
 * 2022.06. Reviewer for WACV 2023. 
 * 2022.06. I moved from Building-1 L4 to Building-1 L2.
 * 2022.06. Reviewer for NeurIPS 2022.
