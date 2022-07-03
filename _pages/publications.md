@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 # 2022
+* Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification            
+  **Kai Yi**, Xiaoqian Shen, Yunhao Gou, Mohamed Elhoseiny               
+  ECCV, 2022. [[paper]](https://arxiv.org/abs/2203.01386) [[project]](https://kaiyi.me/p/hgr_net) [[code]](https://github.com/WilliamYi96/HGR-Net)
+  
 * EF-BV: A Unified Theory of Error Feedback and Variance Reduction Mechanisms for Biased and Unbiased Compression in Distributed Optimization             
   Laurent Condat, **Kai Yi**, Peter Richtárik                          
   arXiv, 2022. [[paper]](https://arxiv.org/abs/2205.04180)
@@ -17,10 +21,6 @@ author_profile: true
 * Creative Walk Adversarial Networks: Novel Art Generation with Probabilistic Random Walk Deviation from Style Norms         
   Divyansh Jha\*, **Kai Yi**, Ivan Skorokhodov, Mohamed Elhoseiny\*            
   ICCC, 2022. [[project page]](https://kaiyi.me/p/grawd) [[paper]](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_11L_Jha-et-al..pdf) [[code]](https://github.com/Vision-CAIR/GRaWD)
-
-* Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification            
-  **Kai Yi**, Xiaoqian Shen, Yunhao Gou, Mohamed Elhoseiny               
-  arXiv, 2022. [[paper]](https://arxiv.org/abs/2203.01386) [[project]](https://kaiyi.me/p/hgr_net) [[code soon]]()
   
 * VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining             
   Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny              
