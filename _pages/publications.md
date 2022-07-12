@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 # 2022
+* Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning                    
+  Grigory Malinovsky, **Kai Yi**, Peter Richtárik                
+  arXiv, 2022. [[paper]](https://arxiv.org/abs/2207.04338)
+  
 * Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification            
   **Kai Yi**, Xiaoqian Shen, Yunhao Gou, Mohamed Elhoseiny               
   ECCV, 2022. [[paper]](https://arxiv.org/abs/2203.01386) [[project]](https://kaiyi.me/p/hgr_net) [[code]](https://github.com/WilliamYi96/HGR-Net)
