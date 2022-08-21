@@ -20,9 +20,9 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> 2022.07. Our paper "Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning" is available on [arXiv](https://arxiv.org/abs/2207.04338)
+* <span style="color:red">New!!</span> 2022.07. Our paper "Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning" is available on [arXiv](https://arxiv.org/abs/2207.04338).
 * <span style="color:red">New!!</span> 2022.07. [HGR-Net](https://arxiv.org/abs/2203.01386) for large-scale zero-shot learning has been accepted by ECCV 2022! Code is available [here](https://github.com/WilliamYi96/HGR-Net).
-* 2022.06. Reviewer for WACV 2023. 
+* 2022.06. Reviewer for WACV 2023, BMVC 2022. 
 * 2022.06. I moved from Building-1 L4 to Building-1 L2.
 * 2022.06. Reviewer for NeurIPS 2022.
 * 2022.06. Continue serving as a [Student Ambassador](https://cemse.kaust.edu.sa/ask-a-student) 2022-2023 at KAUST CEMSE! 
@@ -30,14 +30,14 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 * 2022.05. Our paper "EF-BV: A Unified Theory of Error Feedback and Variance Reduction Mechanisms for Biased and Unbiased Compression in Distributed Optimization" is available on [arXiv](https://arxiv.org/abs/2205.04180)！
 * 2022.04. Our paper "Creative Walk Adversarial Networks: Novel Art Generation with Probabilistic Random Walk Deviation from Style Norms" has been accepted by [ICCC 2022](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_11L_Jha-et-al..pdf)!
 * 2022.04. Our short paper "Language-Guided Imaginative Walks: Generative Random Walk Deviation Loss for Unseen Class Recognition using Text" has been accepted by [CVPR22 L3D-IVU Workshop](https://sites.google.com/view/l3d-ivu/overview?authuser=0)!
-* 2022.03. HGR-Net for large-scale zero-shot learning is available on [arXiv](https://arxiv.org/abs/2203.01386)
+* 2022.03. HGR-Net for large-scale zero-shot learning is available on [arXiv](https://arxiv.org/abs/2203.01386).
 * 2022.03. Our paper [VisualGPT](https://arxiv.org/abs/2102.10407) is accepted by CVPR22! [code](https://github.com/Vision-CAIR/VisualGPT) has been released. 
 * 2022.01-05. Reviewer for ECCV22, CVPR22, ICML22, IJCV, TIP.
 * 2022.02. Teaching Assistant for CS283: Deep Generative Modeling.
 * 2021.12. DACZSL is available on [arXiv](https://arxiv.org/abs/2112.12989).
 * **2021.12. Glad to be a PhD student at Optimization and Machine Learning Lab led by Prof. [Peter Richtárik](https://richtarik.org/)!**
 * **2021.12. Graduated from KAUST with a Master degree. Thanks a lot to my MS supervisor Prof. [Mohamed Elhoseiny](http://www.mohamed-elhoseiny.com/home) and colleagues. Also congratulations to myself!**
-* **2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://kaiyi.me/p/daczsl)**
+* **2021.11. My Master's thesis is [available](https://repository.kaust.edu.sa/handle/10754/673833), [homepage](https://kaiyi.me/p/daczsl).**
 * 2021.11. Successfully defended my Master's thesis!
 * 2021.05. Our unsupervised open-set recognition work has been accepted to ICIP 2021!
 * 2021.04.28. Spotlight talk of CIZSL++ at KAUST AI Initiative. [link](https://youtu.be/WgydkhhKkdg?list=PLC28kDljnOrj-_w-MHKW36gVRvUe3XFjx).
