@@ -20,7 +20,7 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> Two papers (EF-BV, VR-ProxSkip) accepted by NeurIPS 2022!
+* <span style="color:red">New!!</span> 2022.09. Two papers (EF-BV, VR-ProxSkip) accepted by NeurIPS 2022!
 * 2022.09. Reviewer for AAAI 2023.    
 * 2022.08. Serve as an Orientation Leader at KAUST 2022 Fall. 
 * <span style="color:red">New!!</span> 2022.07. Our paper "Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning" is available on [arXiv](https://arxiv.org/abs/2207.04338).
