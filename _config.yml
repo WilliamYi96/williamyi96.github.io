@@ -95,7 +95,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r08j39wAAAAJ"
   email            : "williamyi96@gmail.com"
-  researchgate     : https://www.researchgate.net/profile/Kai-Yi-5
+  researchgate     : # https://www.researchgate.net/profile/Kai-Yi-5
   uri              :
   bitbucket        :
   codepen          :
@@ -122,7 +122,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  semanticscholar  : https://www.semanticscholar.org/author/Kai-Yi/100516201
+  semanticscholar  : # https://www.semanticscholar.org/author/Kai-Yi/100516201
 
 
 # Reading Files
