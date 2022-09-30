@@ -5,6 +5,35 @@ permalink: /publications/
 author_profile: true
 ---
 
+# 2022
+* Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning                    
+  Grigory Malinovsky, **Kai Yi**, Peter Richtárik                
+  NeurIPS, 2022. [[paper]](https://arxiv.org/abs/2207.04338)
+  
+* Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification            
+  **Kai Yi**, Xiaoqian Shen, Yunhao Gou, Mohamed Elhoseiny               
+  ECCV, 2022. [[paper]](https://arxiv.org/abs/2203.01386) [[project]](https://kaiyi.me/p/hgr_net) [[code]](https://github.com/WilliamYi96/HGR-Net)
+  
+* EF-BV: A Unified Theory of Error Feedback and Variance Reduction Mechanisms for Biased and Unbiased Compression in Distributed Optimization             
+  Laurent Condat, **Kai Yi**, Peter Richtárik                          
+  NeurIPS, 2022. [[paper]](https://arxiv.org/abs/2205.04180)
+
+* Language-Guided Imaginative Walks: Generative Random Walk Deviation Loss for Unseen Class Recognition using Text         
+  **Kai Yi**, Divyansh Jha, Ivan Skorokhodov, Mohamed Elhoseiny              
+  CVPR, 2022, L3D-IVU Workshop (Short Paper). [[paper]](https://arxiv.org/abs/2104.09757)      
+  
+* Creative Walk Adversarial Networks: Novel Art Generation with Probabilistic Random Walk Deviation from Style Norms         
+  Divyansh Jha\*, **Kai Yi**, Ivan Skorokhodov, Mohamed Elhoseiny\*            
+  ICCC, 2022. [[project page]](https://kaiyi.me/p/grawd) [[paper]](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_11L_Jha-et-al..pdf) [[code]](https://github.com/Vision-CAIR/GRaWD)
+  
+* VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining             
+  Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny              
+  CVPR, 2022. [[arXiv]](https://arxiv.org/abs/2102.10407) [[CVF]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_VisualGPT_Data-Efficient_Adaptation_of_Pretrained_Language_Models_for_Image_Captioning_CVPR_2022_paper.pdf) [[code]](https://github.com/Vision-CAIR/VisualGPT)
+  
+* CIZSL++: Creativity Inspired Generative Zero-Shot Learning            
+  Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki               
+  T-PAMI Major Revision. [[paper]](https://arxiv.org/abs/2101.00173) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
+  
 # 2021
 * Domain-Aware Continual Zero-Shot Learning          
   **Kai Yi**, Mohamed Elhoseiny           
@@ -25,14 +54,6 @@ author_profile: true
 * Unsupervised Domain Alignment based Open Set Structural Recognition of Macromolecules Captured by Cryo-Electron Tomography      
   Yuchen Zeng, Gregory Howe, **Kai Yi**, Xiangrui Zeng, Jing Zhang, Yi-Wei Chang, Min Xu        
   ICIP 2021. [[paper]](https://ieeexplore.ieee.org/document/9506205)
-  
-* VisualGPT: Data-efficient Image Captioning by Balancing Visual Input and Linguistic Knowledge from Pretraining             
-  Jun Chen, Han Guo, **Kai Yi**, Boyang Li, Mohamed Elhoseiny              
-  arXiv, 2021. [[paper]](https://arxiv.org/abs/2102.10407) [[code]](https://github.com/Vision-CAIR/VisualGPT)
-  
-* CIZSL++: Creativity Inspired Generative Zero-Shot Learning            
-  Mohamed Elhoseiny, **Kai Yi**,  Mohamed Elfeki               
-  arXiv, 2021. [[paper]](https://arxiv.org/abs/2101.00173) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
 
 # 2020 and before 
 * Experimental Analysis of Legendre Decomposition in Machine Learning                 
