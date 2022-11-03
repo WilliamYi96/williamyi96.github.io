@@ -5,14 +5,14 @@ author_profile: true
 ---
 Current Projects
 ---
-* Optimization in Federated Learning 
-* Unified Transfer Learning (Domain-Aware Continual Zero-Shot Learning)
-* TBD...
+* Communication-accelerated 5th Generation Local Training Methods
+* Personlization in Federated Learning
 
 Previous Projects
 ---
-I would like to only present the works primarily conducted by me. 
+I would like to present some selected works.
 
+* Unified Transfer Learning - Domain-Aware Continual Zero-Shot Learning (MS Thesis)
 * Creativity Inspired Zero-Shot Learning (2020-21 Vision-CAIR researches)
 * Disentangled Representation of Macromolecules in Cryo-Electron Tomographyry (2021 CMU internship)
 * 3D Hand Pose Estimation (2019 NUS internship)
