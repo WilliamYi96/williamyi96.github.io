@@ -20,6 +20,7 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 
 <span style="color:red">What's New</span>
 ======
+* 2022.12. Attending NeurIPS 2022 in New Orleans, LA. 
 * 2022.11. Reviewer for ICLR 2023, CVPR 2023.        
 * 2022.10. Reviewer for AISTATS 2023.
 * <span style="color:red">New!!</span> 2022.09. Two papers (EF-BV, VR-ProxSkip) accepted by NeurIPS 2022!
