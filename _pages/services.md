@@ -15,7 +15,7 @@ author_profile: true
 - International Conference on Machine Learning (ICML): 2022
 - International Conference on Artificial Intelligence and Statistics (AISTATS): 2023
 - The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR): 2022-2023
-- - European Conference on Computer Vision (ECCV): 2022
+- European Conference on Computer Vision (ECCV): 2022
 - AAAI Conference on Artificial Intelligence (AAAI): 2022-2023
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV): 2021-2023
 - British Machine Vision Conference (BMVC): 2020-2022
