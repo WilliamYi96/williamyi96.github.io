@@ -10,8 +10,6 @@ redirect_from:
 
 I'm a PhD student under the supervision of Prof. [Peter Richtárik](https://richtarik.org/). Before that, I received my Master from [KAUST](https://kaust.edu.sa/en) in Dec. 2021 and B.Eng with honor from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. I've interned at [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime](https://www.sensetime.com/en). 
 
-<span style="color:red">Looking for a 2023 summer internship position on machine learning optimization or federated learning!</span>
-
 Research Interests
 ======
 * Machine learning optimization in the large-scale data/model era.
@@ -21,6 +19,7 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 
 <span style="color:red">What's New</span>
 ======
+* 2023.03. Reviewer for ICCV 2023, IJCV, T-PAMI.
 * 2022.12. Attending NeurIPS 2022 in New Orleans, LA. 
 * 2022.11. Reviewer for ICLR 2023, CVPR 2023.        
 * 2022.10. Reviewer for AISTATS 2023.
