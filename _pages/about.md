@@ -19,6 +19,7 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 
 <span style="color:red">What's New</span>
 ======
+* 2023.05. Reviewer for NeurIPS 2023. 
 * <span style="color:red">New!!</span> 2023.05. Our paper "Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning" is available on [arXiv](https://arxiv.org/abs/2305.13170). Code is available [here](https://github.com/WilliamYi96/Scafflix).
 * 2023.03. Reviewer for ICCV 2023, IJCV, T-PAMI.
 * 2022.12. Attending NeurIPS 2022 in New Orleans, LA. 
