@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
-* Continual Zero-Shot Learning through Semantically Guided Generative Random Walks
+* Continual Zero-Shot Learning through Semantically Guided Generative Random Walks                      
   Wenxuan Zhang, Paul Janson, **Kai Yi**, Divyansh Jha, Ivan Skorokhodov, Mohamed Elhoseiny
   ICCV, 2023
 
