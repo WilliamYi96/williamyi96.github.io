@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
+* Continual Zero-Shot Learning through Semantically Guided Generative Random Walks
+  Wenxuan Zhang, Paul Janson, **Kai Yi**, Divyansh Jha, Ivan Skorokhodov, Mohamed Elhoseiny
+  ICCV, 2023
+
 * Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning       
   **Kai Yi**, Laurent Condat, Peter Richtárik        
   arXiv, 2023. [[paper]](https://arxiv.org/abs/2305.13170) [[code]](https://github.com/WilliamYi96/Scafflix)
