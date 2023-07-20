@@ -20,7 +20,7 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning an
 <span style="color:red">What's New</span>
 ======
 * 2023.07. Our paper "Continual Zero-shot Learning through Semantically Guided Generative Random Walks" has been accepted by ICCV 2023!
-* 2023.07. Program Committee member (PC) for AAAI 2024.
+* 2023.07. Program Committee member for AAAI 2024.
 * 2023.06. Reviewer for IJCV.
 * 2023.05. Reviewer for NeurIPS 2023, WACV 2024, BMVC 2023.
 * <span style="color:red">New!!</span> 2023.05. Our paper "Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning" is available on [arXiv](https://arxiv.org/abs/2305.13170). Code is available [here](https://github.com/WilliamYi96/Scafflix).
