@@ -15,10 +15,11 @@ Research Interests
 * Machine learning optimization in the large-scale data/model era.
 * Conceptual-level knowledge transfer learning: theories and applications.
 
-Specifically, now I work on Machine Learning Optimization, Federated Learning and a bit Zero-Shot Learning.
+Specifically, now I work on Machine Learning Optimization, Federated Learning, and a bit Zero-Shot Learning.
 
 <span style="color:red">What's New</span>
 ======
+* 2023.08. Reviewer for Computer Vision and Image Understanding. 
 * 2023.07. Our paper "Continual Zero-shot Learning through Semantically Guided Generative Random Walks" has been accepted by ICCV 2023!
 * 2023.07. Program Committee member for AAAI 2024.
 * 2023.06. Reviewer for IJCV.
