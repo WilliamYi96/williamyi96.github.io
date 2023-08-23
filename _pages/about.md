@@ -12,10 +12,8 @@ I'm a PhD student under the supervision of Prof. [Peter Richtárik](https://rich
 
 Research Interests
 ======
-* Machine learning optimization in the large-scale data/model era.
-* Conceptual-level knowledge transfer learning: theories and applications.
-
-Specifically, now I work on Machine Learning Optimization, Federated Learning, and a bit Zero-Shot Learning.
+* Machine learning optimization (GD/SGD, distributed SGD, variance reduction, compression, sampling)
+* Theoretically-guided federated learning for addressing fundamental real-world problems
 
 <span style="color:red">What's New</span>
 ======
