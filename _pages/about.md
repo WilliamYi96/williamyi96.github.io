@@ -19,7 +19,7 @@ Specifically, now I work on Machine Learning Optimization, Federated Learning, a
 
 <span style="color:red">What's New</span>
 ======
-* 2023.08. Reviewer for Computer Vision and Image Understanding. 
+* 2023.08. Reviewer for Computer Vision and Image Understanding (CVIU). 
 * 2023.07. Our paper "Continual Zero-shot Learning through Semantically Guided Generative Random Walks" has been accepted by ICCV 2023!
 * 2023.07. Program Committee member for AAAI 2024.
 * 2023.06. Reviewer for IJCV.
