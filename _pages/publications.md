@@ -7,7 +7,7 @@ author_profile: true
 # 2023
 * Continual Zero-Shot Learning through Semantically Guided Generative Random Walks                      
   Wenxuan Zhang, Paul Janson, **Kai Yi**, Ivan Skorokhodov, Mohamed Elhoseiny  
-  ICCV, 2023
+  ICCV, 2023. [[paper]](https://arxiv.org/abs/2308.12366) [[code]](https://github.com/wx-zhang/IGCZSL)
 
 * Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning       
   **Kai Yi**, Laurent Condat, Peter Richtárik        
