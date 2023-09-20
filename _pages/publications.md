@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 # 2023
+* Domain-Aware Continual Zero-Shot Learning          
+  **Kai Yi**, Mohamed Elhoseiny           
+  ICCV Workshop [OOD-CV](https://www.ood-cv.org/), 2023. [[paper]](https://arxiv.org/abs/2112.12989) [[project]](https://kaiyi.me/p/daczsl)
+  
 * Continual Zero-Shot Learning through Semantically Guided Generative Random Walks                      
   Wenxuan Zhang, Paul Janson, **Kai Yi**, Ivan Skorokhodov, Mohamed Elhoseiny  
   ICCV, 2023. [[paper]](https://arxiv.org/abs/2308.12366) [[code]](https://github.com/wx-zhang/IGCZSL)
@@ -43,10 +47,6 @@ author_profile: true
   T-PAMI Major Revision. [[paper]](https://arxiv.org/abs/2101.00173) [[code]](https://github.com/Elhoseiny-VisionCAIR-Lab/CIZSL.v2).
   
 # 2021
-* Domain-Aware Continual Zero-Shot Learning          
-  **Kai Yi**, Mohamed Elhoseiny           
-  arXiv, 2021. [[paper]](https://arxiv.org/abs/2112.12989) [[project]](https://kaiyi.me/p/daczsl)
-  
 * Domain-Aware Continual Zero-Shot Learning       
   **Kai Yi**                       
   Master Thesis, 2021. [[thesis]](https://repository.kaust.edu.sa/handle/10754/673833) 
