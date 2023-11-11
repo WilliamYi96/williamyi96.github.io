@@ -14,8 +14,8 @@ I'm a PhD student under the supervision of Prof. [Peter Richtárik](https://rich
 
 Research Interests
 ======
-* *Machine Learning Optimization*: GD/SGD, distributed SGD, variance reduction, compression, sampling, acceleration.
-* *Federated Learning*: addressing fundamental real-world problems such as data/model heterogeneity, personalization, sparsity, privacy, and large-scale models.
+* **Machine Learning Optimization**: GD/SGD, distributed SGD, variance reduction, compression, sampling, acceleration.
+* **Federated Learning**: addressing fundamental real-world problems such as data/model heterogeneity, personalization, sparsity, privacy, and large-scale models.
 
 <span style="color:red">What's New</span>
 ======
