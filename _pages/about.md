@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student under the supervision of Prof. [Peter Richtárik](https://richtarik.org/). Before that, I received my Master from [KAUST](https://kaust.edu.sa/en) in Dec. 2021 and B.Eng with honor from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in June 2019. I've interned at [SonyAI](https://ai.sony/), [Vector Institute](https://vectorinstitute.ai/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime Research](https://www.sensetime.com/en).
+I'm a PhD student under the supervision of Prof. [Peter Richtárik](https://richtarik.org/). Before that, I received my Master from [King Abdullah University of Science and Technology (KAUST)](https://kaust.edu.sa/en) in Dec. 2021 and B.Eng with honor from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) in June 2019. I've interned at [SonyAI](https://ai.sony/), [Vector Institute](https://vectorinstitute.ai/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime Research](https://www.sensetime.com/en).
 
 <span style="color:red">Looking for a Research Internship in Machine Learning Optimization or Federated Learning for Summer 2024!</span>
 
