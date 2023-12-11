@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student under the supervision of Prof. [Peter Richtárik](https://richtarik.org/). Before that, I received my Master from [King Abdullah University of Science and Technology (KAUST)](https://kaust.edu.sa/en) in Dec. 2021 and B.Eng with honor from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) in June 2019. I've interned at [SonyAI](https://ai.sony/), [Vector Institute](https://vectorinstitute.ai/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime Research](https://www.sensetime.com/en).
+I am currently a PhD student, working under the guidance of Prof. [Peter Richtárik](https://richtarik.org/). Prior to this, I completed my Master's degree under the supervision of Prof. [Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/) at [King Abdullah University of Science and Technology (KAUST)](https://kaust.edu.sa/en) in December 2021. I earned my Bachelor of Engineering with honors from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) in June 2019. My professional experience includes internships at [SonyAI](https://ai.sony/), [Vector Institute](https://vectorinstitute.ai/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime Research](https://www.sensetime.com/en).
 
-<span style="color:red">Looking for a Research Internship in Machine Learning Optimization or Federated Learning!</span>
+<span style="color:red">Actively looking for a Research Internship in Machine Learning Optimization or Federated Learning!</span>
 
 Research Interests
 ======
