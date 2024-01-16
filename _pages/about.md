@@ -20,6 +20,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* 2024.01. <span style="color:red">New!!</span> Our paper FedP3 has been accepted by ICLR24!     
 * 2023.11. Reviewer for CVPR 2024.
 * 2023.09. Reviewer for AISTATS 2024. 
 * 2023.09. Our paper [DACZSL](https://arxiv.org/abs/2112.12989) has been accepted by the ICCV23 [OOD-CV](https://www.ood-cv.org/) workshop.
@@ -28,7 +29,7 @@ Research Interests
 * 2023.07. Program Committee member for AAAI 2024.
 * 2023.06. Reviewer for IJCV.
 * 2023.05. Reviewer for NeurIPS 2023, WACV 2024, BMVC 2023.
-* <span style="color:red">New!!</span> 2023.05. Our paper "Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning" is available on [arXiv](https://arxiv.org/abs/2305.13170). Code is available [here](https://github.com/WilliamYi96/Scafflix).
+* 2023.05. Our paper "Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning" is available on [arXiv](https://arxiv.org/abs/2305.13170). Code is available [here](https://github.com/WilliamYi96/Scafflix).
 * 2023.03. Reviewer for ICCV 2023, IJCV, T-PAMI.
 * 2022.12. Attending NeurIPS 2022 in New Orleans, LA. 
 * 2022.11. Reviewer for ICLR 2023, CVPR 2023.        
