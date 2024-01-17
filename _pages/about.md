@@ -20,6 +20,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* 2024.01. Invited as a reviewer for ECCV 2024. 
 * 2024.01. <span style="color:red">New!!</span> Our paper [FedP3](https://openreview.net/forum?id=hbHwZYqk9T) has been accepted by ICLR24!     
 * 2023.11. Reviewer for CVPR 2024.
 * 2023.09. Reviewer for AISTATS 2024. 
