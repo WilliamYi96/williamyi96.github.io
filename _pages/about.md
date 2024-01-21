@@ -35,7 +35,7 @@ Research Interests
 * 2022.12. Attending NeurIPS 2022 in New Orleans, LA. 
 * 2022.11. Reviewer for ICLR 2023, CVPR 2023.        
 * 2022.10. Reviewer for AISTATS 2023.
-* **2022.09. Two papers (EF-BV, VR-ProxSkip) accepted by NeurIPS 2022!**
+* **2022.09. Two papers ([EF-BV](https://arxiv.org/abs/2205.04180) and [VR-ProxSkip](https://arxiv.org/abs/2207.04338)) accepted by NeurIPS 2022!**
 * 2022.09. Program Committee member (PC) for AAAI 2023.    
 * 2022.08. Serve as an Orientation Leader at KAUST 2022 Fall. 
 * 2022.07. Our paper "Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning" is available on [arXiv](https://arxiv.org/abs/2207.04338).
