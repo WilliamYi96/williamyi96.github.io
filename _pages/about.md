@@ -28,6 +28,7 @@ Research Interests
 * 2023.08. Reviewer for Computer Vision and Image Understanding (CVIU). 
 * **2023.07. Our paper [IGCZSL](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Continual_Zero-Shot_Learning_through_Semantically_Guided_Generative_Random_Walks_ICCV_2023_paper.pdf) has been accepted by ICCV 2023!**
 * 2023.07. Program Committee member for AAAI 2024.
+* 2023.06. Research Internship at SonyAI.
 * 2023.06. Reviewer for IJCV.
 * 2023.05. Reviewer for NeurIPS 2023, WACV 2024, BMVC 2023.
 * 2023.05. Our paper "Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning" is available on [arXiv](https://arxiv.org/abs/2305.13170). Code is available [here](https://github.com/WilliamYi96/Scafflix).
