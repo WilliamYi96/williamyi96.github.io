@@ -26,7 +26,7 @@ Research Interests
 * 2023.09. Reviewer for AISTATS 2024. 
 * 2023.09. Our paper [DACZSL](https://arxiv.org/abs/2112.12989) has been accepted by the ICCV23 [OOD-CV](https://www.ood-cv.org/) workshop.
 * 2023.08. Reviewer for Computer Vision and Image Understanding (CVIU). 
-* **2023.07. Our paper "Continual Zero-shot Learning through Semantically Guided Generative Random Walks" has been accepted by ICCV 2023!**
+* **2023.07. Our paper [IGCZSL](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_Continual_Zero-Shot_Learning_through_Semantically_Guided_Generative_Random_Walks_ICCV_2023_paper.pdf) has been accepted by ICCV 2023!**
 * 2023.07. Program Committee member for AAAI 2024.
 * 2023.06. Reviewer for IJCV.
 * 2023.05. Reviewer for NeurIPS 2023, WACV 2024, BMVC 2023.
