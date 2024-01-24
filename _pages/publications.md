@@ -7,7 +7,7 @@ author_profile: true
 # 2024
 * FedP3: Federated Personalized and Privacy-friendly  Network Pruning under Model Heterogeneity          
   **Kai Yi**, Nidham Gazagnadou, Peter Richtárik, Lingjuan Lyu                    
-  ICLR, 2024. [[paper]](https://openreview.net/forum?id=hbHwZYqk9T)     
+  ICLR, 2024. [[paper]](https://openreview.net/forum?id=hbHwZYqk9T)  [[code]](coming soon)
   
 
 # 2023
@@ -26,7 +26,7 @@ author_profile: true
 # 2022
 * Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning                    
   Grigory Malinovsky, **Kai Yi**, Peter Richtárik                
-  NeurIPS, 2022. [[paper]](https://arxiv.org/abs/2207.04338)
+  NeurIPS, 2022. [[paper]](https://arxiv.org/abs/2207.04338) [[code]](https://github.com/WilliamYi96/VR-ProxSkip)
   
 * Exploring Hierarchical Graph Representation for Large-Scale Zero-Shot Image Classification            
   **Kai Yi**, Xiaoqian Shen, Yunhao Gou, Mohamed Elhoseiny               
@@ -34,7 +34,7 @@ author_profile: true
   
 * EF-BV: A Unified Theory of Error Feedback and Variance Reduction Mechanisms for Biased and Unbiased Compression in Distributed Optimization             
   Laurent Condat, **Kai Yi**, Peter Richtárik                          
-  NeurIPS, 2022. [[paper]](https://arxiv.org/abs/2205.04180)
+  NeurIPS, 2022. [[paper]](https://arxiv.org/abs/2205.04180) [[code]](https://github.com/WilliamYi96/EF-BV)
 
 * Language-Guided Imaginative Walks: Generative Random Walk Deviation Loss for Unseen Class Recognition using Text         
   **Kai Yi**, Divyansh Jha, Ivan Skorokhodov, Mohamed Elhoseiny              
