@@ -20,7 +20,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span>  2024.03. New paper "FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models" is available on [arXiv]().
+* <span style="color:red">New!!</span>  2024.03. New paper "FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models" is available on [arXiv](https://arxiv.org/abs/2403.09904).
 * <span style="color:red">New!!</span>  2024.03. An improved version of [DACZSL](https://arxiv.org/pdf/2112.12989.pdf) is on arXiv.
 * 2024.01. Invited as a reviewer for ECCV 2024. 
 * <span style="color:red">New!!</span>  **2024.01. Our paper [FedP3](https://openreview.net/forum?id=hbHwZYqk9T) has been accepted by ICLR24!**
