@@ -7,7 +7,7 @@ author_profile: true
 # 2024
 * FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models            
   **Kai Yi**, Georg Meinhardt, Laurent Condat, Peter Richtárik             
-  arXiv, 2024. [[arXiv]]() [[code (coming soon)]](https://github.com/WilliamYi96/FedComLoc)
+  arXiv, 2024. [[arXiv]](https://arxiv.org/abs/2403.09904) [[code (coming soon)]](https://github.com/WilliamYi96/FedComLoc)
   
 * FedP3: Federated Personalized and Privacy-friendly  Network Pruning under Model Heterogeneity          
   **Kai Yi**, Nidham Gazagnadou, Peter Richtárik, Lingjuan Lyu                    
