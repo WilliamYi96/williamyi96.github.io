@@ -11,7 +11,7 @@ author_profile: true
   
 * FedP3: Federated Personalized and Privacy-friendly  Network Pruning under Model Heterogeneity          
   **Kai Yi**, Nidham Gazagnadou, Peter Richtárik, Lingjuan Lyu                    
-  ICLR, 2024. [[paper]](https://openreview.net/forum?id=hbHwZYqk9T)  [[code (coming soon)]]()
+  ICLR, 2024. [[paper]](https://openreview.net/forum?id=hbHwZYqk9T)  [[code]](https://github.com/SonyResearch/FedP3)
   
 
 # 2023
