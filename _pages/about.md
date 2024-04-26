@@ -20,6 +20,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span>  **2024.04. Passed the PhD proposal defense with the title "Exploring Real-World Challenges in Federated Learning: Personalization, Sparsity, and Scalability"!**
 * <span style="color:red">New!!</span>  2024.04. Our paper [FedP3](https://arxiv.org/abs/2404.09816) is available on arXiv. [Code](https://github.com/SonyResearch/FedP3) has been released. 
 * <span style="color:red">New!!</span>  2024.03. New paper "FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models" is available on [arXiv](https://arxiv.org/abs/2403.09904).
 * <span style="color:red">New!!</span>  2024.03. An improved version of [DACZSL](https://arxiv.org/pdf/2112.12989.pdf) is on arXiv.
