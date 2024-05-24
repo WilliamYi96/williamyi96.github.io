@@ -6,7 +6,7 @@ author_profile: true
 ---
 # 2024
 * PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression
-  Vladimir Malinovskii, Denis Mazur, Ivan Ilin, Denis Kuznedelev, Konstantin Burlachenko, **Kai Yi**, Dan Alistarh, Peter Richtarik
+  Vladimir Malinovskii, Denis Mazur, Ivan Ilin, Denis Kuznedelev, Konstantin Burlachenko, **Kai Yi**, Dan Alistarh, Peter Richtarik        
   arXiv, 2024. [[arXiv](https://arxiv.org/abs/2405.14852)]
 
 * FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models            
