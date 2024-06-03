@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 # 2024
+* Prune at the Clients, Not the Server: Accelerated Sparse Training in Federated Learning                   
+  Georg Meinhardt, **Kai Yi**, Laurent Condat, Peter Richtárik                 
+  arXiv, 2024. [[arXiv]](https://arxiv.org/abs/2405.20623)
+
 * PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression           
-  Vladimir Malinovskii, Denis Mazur, Ivan Ilin, Denis Kuznedelev, Konstantin Burlachenko, **Kai Yi**, Dan Alistarh, Peter Richtarik        
-  arXiv, 2024. [[arXiv](https://arxiv.org/abs/2405.14852)]
+  Vladimir Malinovskii, Denis Mazur, Ivan Ilin, Denis Kuznedelev, Konstantin Burlachenko, **Kai Yi**, Dan Alistarh, Peter Richtarik         
+  arXiv, 2024. [[arXiv](https://arxiv.org/abs/2405.14852)] [[code]](https://github.com/Vahe1994/AQLM/tree/pv-tuning) [[HF Models]](https://huggingface.co/collections/ISTA-DASLab/aqlmpv-66564dff5d84f00a893ba93f)
 
 * FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models            
   **Kai Yi**, Georg Meinhardt, Laurent Condat, Peter Richtárik             
