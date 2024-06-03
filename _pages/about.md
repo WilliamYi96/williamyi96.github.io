@@ -25,11 +25,11 @@ Research Interests
 * 2024.05. Reviewer for NeurIPS 2024.
 * 2024.05. Attending ICLR 2024 in Vienna, Austria. 
 * <span style="color:red">New!!</span>  **2024.04. Passed the PhD proposal defense with the title "Exploring Real-World Challenges in Federated Learning: Personalization, Sparsity, and Scalability"!**
-* <span style="color:red">New!!</span>  2024.04. Our paper [FedP3](https://arxiv.org/abs/2404.09816) is available on arXiv. [Code](https://github.com/SonyResearch/FedP3) has been released. 
-* <span style="color:red">New!!</span>  2024.03. New paper "FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models" is available on [arXiv](https://arxiv.org/abs/2403.09904).
-* <span style="color:red">New!!</span>  2024.03. An improved version of [DACZSL](https://arxiv.org/pdf/2112.12989.pdf) is on arXiv.
+* 2024.04. Our paper [FedP3](https://arxiv.org/abs/2404.09816) is available on arXiv. [Code](https://github.com/SonyResearch/FedP3) has been released. 
+* 2024.03. New paper "FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models" is available on [arXiv](https://arxiv.org/abs/2403.09904).
+* 2024.03. An improved version of [DACZSL](https://arxiv.org/pdf/2112.12989.pdf) is on arXiv.
 * 2024.01. Invited as a reviewer for ECCV 2024. 
-* <span style="color:red">New!!</span>  **2024.01. Our paper [FedP3](https://openreview.net/forum?id=hbHwZYqk9T) has been accepted by ICLR24!**
+* **2024.01. Our paper [FedP3](https://openreview.net/forum?id=hbHwZYqk9T) has been accepted by ICLR24!**
 * 2023.11. Reviewer for CVPR 2024.
 * 2023.09. Reviewer for AISTATS 2024. 
 * 2023.09. Our paper [DACZSL](https://arxiv.org/abs/2112.12989) has been accepted by the ICCV23 [OOD-CV](https://www.ood-cv.org/) workshop.
