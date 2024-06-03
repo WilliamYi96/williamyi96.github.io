@@ -20,7 +20,8 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> 2024.05. Our paper [PV-Tuning](https://arxiv.org/abs/2405.14852) is available on arXiv!
+* <span style="color:red">New!!</span> 2024.06. Our paper [Sparse-ProxSkip](https://arxiv.org/abs/2405.20623) is available on arXiv!
+* <span style="color:red">New!!</span> 2024.05. Our paper [PV-Tuning](https://arxiv.org/abs/2405.14852) is available on arXiv! [Code](https://github.com/Vahe1994/AQLM/tree/pv-tuning) has been released.
 * 2024.05. Reviewer for NeurIPS 2024.
 * 2024.05. Attending ICLR 2024 in Vienna, Austria. 
 * <span style="color:red">New!!</span>  **2024.04. Passed the PhD proposal defense with the title "Exploring Real-World Challenges in Federated Learning: Personalization, Sparsity, and Scalability"!**
