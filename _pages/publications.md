@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 # 2024
+* Cohort Squeeze: Beyond a Single Communication Round per Cohort in Cross-Device Federated Learning        
+  **Kai Yi**, Timur Kharisov, Igor Sokolov, Peter Richtárik       
+  arXiv, 2024. [[arXiv]](https://arxiv.org/abs/2406.01115)
+
 * Prune at the Clients, Not the Server: Accelerated Sparse Training in Federated Learning                   
   Georg Meinhardt, **Kai Yi**, Laurent Condat, Peter Richtárik                 
   arXiv, 2024. [[arXiv]](https://arxiv.org/abs/2405.20623)
