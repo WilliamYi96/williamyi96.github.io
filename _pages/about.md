@@ -16,7 +16,7 @@ Research Interests
 ======
 * **LLM Compression**: Post-training Pruning/Quantization, Extreme Quantization, Efficient Pretraining, and Fine-Tuning
 * **Federated Learning**: Personalization, Sparsity, Data/Model Heterogeneity, Federated LLMs
-* **Machine Learning Optimization**: Distributed SGD, Variance Reduction, Compression
+* **Distributed Optimization**: Distributed SGD, Variance Reduction, Compression
 
 <span style="color:red">What's New</span>
 ======
