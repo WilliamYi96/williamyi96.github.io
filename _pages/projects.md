@@ -3,6 +3,9 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
+**Note**: This page is outdated. For recent projects, please refer to my resume and publications.
+
 Current Projects
 ---
 * Federated Large Language Models 
