@@ -20,7 +20,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
-* 2024.09. Our paper, [PV-Tuning](https://arxiv.org/abs/2405.14852), on extreme post-training quantization has been accepted by NeurIPS 2024 as an **Oral** presentation!
+* <span style="color:red">New!!</span> **2024.09. Our paper [PV-Tuning](https://arxiv.org/abs/2405.14852) has been accepted by NeurIPS 2024 as an *Oral* presentation!**
 * 2024.08. Invited as a reviewer for ICLR 2025.
 * 2024.07. Invited as a reviewer for IEEE Transactions on Signal Processing.
 * <span style="color:red">New!!</span> 2024.06. Our paper [Cohort Squeeze](https://arxiv.org/abs/2406.01115) is available on arXiv!   
