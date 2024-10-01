@@ -7,7 +7,7 @@ author_profile: true
 # 2024
 * Cohort Squeeze: Beyond a Single Communication Round per Cohort in Cross-Device Federated Learning        
   **Kai Yi**, Timur Kharisov, Igor Sokolov, Peter Richtárik       
-  arXiv, 2024. [[arXiv]](https://arxiv.org/abs/2406.01115)
+  arXiv, 2024. [[arXiv]](https://arxiv.org/abs/2406.01115) NeurIPS FL@FM Workshop (**Oral**)
 
 * Prune at the Clients, Not the Server: Accelerated Sparse Training in Federated Learning                   
   Georg Meinhardt, **Kai Yi**, Laurent Condat, Peter Richtárik                 
@@ -15,7 +15,7 @@ author_profile: true
 
 * PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression           
   Vladimir Malinovskii, Denis Mazur, Ivan Ilin, Denis Kuznedelev, Konstantin Burlachenko, **Kai Yi**, Dan Alistarh, Peter Richtarik         
-  NeurIPS (Oral), 2024. [[arXiv]](https://arxiv.org/abs/2405.14852) [[code]](https://github.com/Vahe1994/AQLM/tree/pv-tuning) [[HF Models]](https://huggingface.co/collections/ISTA-DASLab/aqlmpv-66564dff5d84f00a893ba93f)
+  NeurIPS (**Oral**), 2024. [[arXiv]](https://arxiv.org/abs/2405.14852) [[code]](https://github.com/Vahe1994/AQLM/tree/pv-tuning) [[HF Models]](https://huggingface.co/collections/ISTA-DASLab/aqlmpv-66564dff5d84f00a893ba93f)
 
 * FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models            
   **Kai Yi**, Georg Meinhardt, Laurent Condat, Peter Richtárik             
