@@ -20,6 +20,8 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* 2025.01. Accepted the invitation to serve as a reviewer for IEEE Transactions on Mobile Computing.   
+* 2024.12. Invited to serve as a reviewer for ICML 2025.
 * 2024.12. Attending NeurIPS 2024 in Vancouver, Canada. If you're also here, let's connect!               
 * <span style="color:red">New!!</span> 2024.10. Our paper [Cohort Squeeze](https://arxiv.org/abs/2406.01115) has been accepted by NeurIPS [FL@FM Workshop](https://federated-learning.org/fl@fm-neurips-2024/) as an Oral!
 * <span style="color:red">New!!</span> **2024.09. Our paper [PV-Tuning](https://arxiv.org/abs/2405.14852) has been accepted by NeurIPS 2024 as an <span style="color:red">Oral (acceptance rate 0.4%, 61/15671)</span>!**
