@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 2025
+* Symmetric Pruning for Large Language Models                       
+  **Kai Yi**, Peter Richtárik           
+  arXiv, 2025. [[arXiv]](https://arxiv.org/abs/2501.18980)            
+
 # 2024
 * Cohort Squeeze: Beyond a Single Communication Round per Cohort in Cross-Device Federated Learning        
   **Kai Yi**, Timur Kharisov, Igor Sokolov, Peter Richtárik       
