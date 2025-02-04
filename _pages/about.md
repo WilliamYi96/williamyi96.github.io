@@ -20,6 +20,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* <span style="color:red">New!!</span> **2025.01. Our paper [SymWanda](https://arxiv.org/abs/2501.18980) is available on arXiv!** 
 * 2025.01. Accepted the invitation to serve as a reviewer for IEEE Transactions on Mobile Computing.   
 * 2024.12. Invited to serve as a reviewer for ICML 2025.
 * 2024.12. Attending NeurIPS 2024 in Vancouver, Canada. If you're also here, let's connect!               
