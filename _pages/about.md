@@ -20,8 +20,9 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* 2025.02. Invited as a reviewer for ACM Multimedia and NeurIPS 2025.
 * <span style="color:red">New!!</span> **2025.01. Our paper [SymWanda](https://arxiv.org/abs/2501.18980) is available on arXiv!** 
-* 2025.01. Accepted the invitation to serve as a reviewer for IEEE Transactions on Mobile Computing.   
+* 2025.01. Reviewer for IEEE Transactions on Mobile Computing (TMC) x2.   
 * 2024.12. Invited to serve as a reviewer for ICML 2025.
 * 2024.12. Attending NeurIPS 2024 in Vancouver, Canada. If you're also here, let's connect!               
 * <span style="color:red">New!!</span> 2024.10. Our paper [Cohort Squeeze](https://arxiv.org/abs/2406.01115) has been accepted by NeurIPS [FL@FM Workshop](https://federated-learning.org/fl@fm-neurips-2024/) as an Oral!
