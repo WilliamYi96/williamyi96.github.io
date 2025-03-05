@@ -6,8 +6,9 @@ author_profile: true
 ---
 # 2025
 * Symmetric Pruning for Large Language Models                       
-  **Kai Yi**, Peter Richtárik           
-  arXiv, 2025. [[arXiv]](https://arxiv.org/abs/2501.18980)            
+  **Kai Yi**, Peter Richtárik             
+  arXiv, 2025. [[arXiv]](https://arxiv.org/abs/2501.18980)
+  ICLR 2025 Sparsity in LLMs Workshop                  
 
 # 2024
 * Cohort Squeeze: Beyond a Single Communication Round per Cohort in Cross-Device Federated Learning        
