@@ -21,7 +21,7 @@ Research Interests
 <span style="color:red">What's New</span>
 ======
 * <span style="color:red">New!!</span> **2025.04. [Scafflix](https://openreview.net/forum?id=qVUEuhlaEa) has been accepted for publication in TMLR!**     
-* <span style="color:red">New!!</span> **2025.04. Successfully defended my PhD titled "*[Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/04/14/strategies-improving-communication-efficiency)*." I'm deeply grateful to my committee members, colleagues, friends, and schoolmates for their incredible support and for being there with me on this special day! </span>!**
+* <span style="color:red">New!!</span> **2025.04. <span style="color:red">Successfully defended my PhD </span> titled "*[Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/04/14/strategies-improving-communication-efficiency)*." I'm deeply grateful to my committee members, colleagues, friends, and schoolmates for their incredible support and for being there with me on this special day! </span>!**
 * 2025.03. [SymWanda](https://arxiv.org/abs/2501.18980) has been accepted for presentation at [SLLM@ICLR 2025](https://www.sparsellm.org/home).
 * 2025.02. Invited as a reviewer for ACM Multimedia and NeurIPS 2025.
 * <span style="color:red">New!!</span> **2025.01. Our paper [SymWanda](https://arxiv.org/abs/2501.18980) is available on arXiv!** 
