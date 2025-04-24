@@ -44,9 +44,8 @@ author_profile: true
 
 * Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning       
   **Kai Yi**, Laurent Condat, Peter Richtárik        
-  arXiv, 2023. [[paper]](https://arxiv.org/abs/2305.13170) [[code]](https://github.com/WilliamYi96/Scafflix)         
-  [[TMLR]](https://openreview.net/forum?id=qVUEuhlaEa)
-
+  TMLR, 2025. [[arXiv23]](https://arxiv.org/abs/2305.13170) [[TMLR]](https://openreview.net/forum?id=qVUEuhlaEa) [[code]](https://github.com/WilliamYi96/Scafflix)         
+  
 # 2022
 * Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning                    
   Grigory Malinovsky, **Kai Yi**, Peter Richtárik                
