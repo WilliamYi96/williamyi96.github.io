@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
+* Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization
+  **Kai Yi**                                       
+  PhD Dissertation. [[archive]](https://doi.org/10.25781/KAUST-80584)
+  
 * Symmetric Pruning for Large Language Models                       
   **Kai Yi**, Peter Richtárik             
   arXiv, 2025. [[arXiv]](https://arxiv.org/abs/2501.18980)                      
