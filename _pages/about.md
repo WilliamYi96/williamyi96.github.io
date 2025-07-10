@@ -20,6 +20,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* 2025.06. Reviewer for NeurIPS 2025, TMC x2.
 * <span style="color:red">New!!</span> **2025.04. [Scafflix](https://openreview.net/forum?id=qVUEuhlaEa) has been accepted for publication in TMLR!**     
 * <span style="color:red">New!!</span> **2025.04. <span style="color:red">Successfully defended my PhD</span>** titled "*[Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/04/14/strategies-improving-communication-efficiency)*." I'm truly grateful to my committee, colleagues, friends, and schoolmates for their amazing support on this special day!
 * 2025.03. [SymWanda](https://arxiv.org/abs/2501.18980) has been accepted for presentation at [SLLM@ICLR 2025](https://www.sparsellm.org/home).
