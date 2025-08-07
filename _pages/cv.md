@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV is available [here](https://nbviewer.org/github/WilliamYi96/williamyi96.github.io/blob/master/files/CV_KAIYI_240801.pdf). Last update: 2024 Aug.
+Full CV is available [here](https://nbviewer.org/github/WilliamYi96/williamyi96.github.io/blob/master/files/CV_KAIYI_250807.pdf). Last update: 2025 Aug.
 
 Education
 ---
