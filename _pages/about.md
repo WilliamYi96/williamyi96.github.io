@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist at Meta, Sunnyvale, working on model compression and inference acceleration. I received my PhD in Computer Science under the guidance of [Prof. Peter Richtárik](https://richtarik.org/) in June 2025. Prior to that, I completed my Master’s degree under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/) at [KAUST](https://kaust.edu.sa/en) in December 2021. I earned my Bachelor of Engineering with honors from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) in June 2019.
+I am currently a Research Scientist at Meta in Sunnyvale, working on model compression and inference acceleration. I received my PhD in Computer Science under the guidance of [Prof. Peter Richtárik](https://richtarik.org/) in June 2025. Prior to that, I completed my Master’s degree under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/) at [KAUST](https://kaust.edu.sa/en) in December 2021. I earned my Bachelor of Engineering with honors from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) in June 2019.
 
 I have had the opportunity to intern at several leading research institutions, including [Sony AI](https://ai.sony/), [Vector Institute](https://vectorinstitute.ai/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime Research](https://www.sensetime.com/en).
 
