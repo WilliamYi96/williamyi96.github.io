@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Scientist at Meta, working on model compression and inference acceleration. I received my PhD in Computer Science under the guidance of [Prof. Peter Richtárik](https://richtarik.org/) in June 2025. Prior to that, I completed my Master’s degree under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/) at [KAUST](https://kaust.edu.sa/en) in December 2021. I earned my Bachelor of Engineering with honors from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) in June 2019.
+I am currently a Research Scientist at Meta, Sunnyvale, working on model compression and inference acceleration. I received my PhD in Computer Science under the guidance of [Prof. Peter Richtárik](https://richtarik.org/) in June 2025. Prior to that, I completed my Master’s degree under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/) at [KAUST](https://kaust.edu.sa/en) in December 2021. I earned my Bachelor of Engineering with honors from [Xi'an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/) in June 2019.
 
 I have had the opportunity to intern at several leading research institutions, including [Sony AI](https://ai.sony/), [Vector Institute](https://vectorinstitute.ai/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime Research](https://www.sensetime.com/en).
 
@@ -25,6 +25,7 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* 2025.08. <span style="color:red"> Started as a Research Scientist at Meta, Sunnyvale!</span>
 * 2025.06. Reviewer for NeurIPS 2025, TMC x2.
 * <span style="color:red">New!!</span> **2025.04. [Scafflix](https://openreview.net/forum?id=qVUEuhlaEa) has been accepted for publication in TMLR!**     
 * <span style="color:red">New!!</span> **2025.04. <span style="color:red">Successfully defended my PhD</span>** titled "*[Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/04/14/strategies-improving-communication-efficiency)*." I'm truly grateful to my committee, colleagues, friends, and schoolmates for their amazing support on this special day!
