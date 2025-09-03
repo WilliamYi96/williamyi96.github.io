@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 # 2025
+* FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models            
+  **Kai Yi**, Georg Meinhardt, Laurent Condat, Peter Richtárik             
+  TMLR, 2025. arXiv, 2024. [[arXiv]](https://arxiv.org/abs/2403.09904) [[TMLR]](https://openreview.net/forum?id=vYQPLytQsj) [[code]](https://github.com/WilliamYi96/FedComLoc)
+
+* Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning       
+  **Kai Yi**, Laurent Condat, Peter Richtárik        
+  TMLR, 2025. [[arXiv23]](https://arxiv.org/abs/2305.13170) [[TMLR]](https://openreview.net/forum?id=qVUEuhlaEa) [[code]](https://github.com/WilliamYi96/Scafflix)
+  
 * Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization                                 
   **Kai Yi**                                       
   PhD Dissertation. [[archive]](https://doi.org/10.25781/KAUST-80584)
@@ -27,10 +35,6 @@ author_profile: true
 * PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression           
   Vladimir Malinovskii, Denis Mazur, Ivan Ilin, Denis Kuznedelev, Konstantin Burlachenko, **Kai Yi**, Dan Alistarh, Peter Richtarik         
   NeurIPS (**Oral**), 2024. [[arXiv]](https://arxiv.org/abs/2405.14852) [[code]](https://github.com/Vahe1994/AQLM/tree/pv-tuning) [[HF Models]](https://huggingface.co/collections/ISTA-DASLab/aqlmpv-66564dff5d84f00a893ba93f)
-
-* FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models            
-  **Kai Yi**, Georg Meinhardt, Laurent Condat, Peter Richtárik             
-  arXiv, 2024. [[arXiv]](https://arxiv.org/abs/2403.09904) [[code]](https://github.com/WilliamYi96/FedComLoc)
   
 * FedP3: Federated Personalized and Privacy-friendly  Network Pruning under Model Heterogeneity          
   **Kai Yi**, Nidham Gazagnadou, Peter Richtárik, Lingjuan Lyu                    
@@ -44,11 +48,7 @@ author_profile: true
   
 * Continual Zero-Shot Learning through Semantically Guided Generative Random Walks                      
   Wenxuan Zhang, Paul Janson, **Kai Yi**, Ivan Skorokhodov, Mohamed Elhoseiny  
-  ICCV, 2023. [[paper]](https://arxiv.org/abs/2308.12366) [[code]](https://github.com/wx-zhang/IGCZSL)
-
-* Explicit Personalization and Local Training: Double Communication Acceleration in Federated Learning       
-  **Kai Yi**, Laurent Condat, Peter Richtárik        
-  TMLR, 2025. [[arXiv23]](https://arxiv.org/abs/2305.13170) [[TMLR]](https://openreview.net/forum?id=qVUEuhlaEa) [[code]](https://github.com/WilliamYi96/Scafflix)         
+  ICCV, 2023. [[paper]](https://arxiv.org/abs/2308.12366) [[code]](https://github.com/wx-zhang/IGCZSL)       
   
 # 2022
 * Variance Reduced ProxSkip: Algorithm, Theory and Application to Federated Learning                    
