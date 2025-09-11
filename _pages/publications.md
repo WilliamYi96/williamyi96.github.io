@@ -15,7 +15,7 @@ author_profile: true
   
 * Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization                                 
   **Kai Yi**                                       
-  PhD Dissertation. [[archive]](https://doi.org/10.25781/KAUST-80584)
+  PhD Dissertation. [[archive]](https://doi.org/10.25781/KAUST-80584) [[arXiv]](https://arxiv.org/abs/2509.08233)
   
 * Symmetric Pruning for Large Language Models                       
   **Kai Yi**, Peter Richtárik             
