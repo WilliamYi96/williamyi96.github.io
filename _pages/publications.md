@@ -19,7 +19,7 @@ author_profile: true
   
 * Symmetric Pruning for Large Language Models                       
   **Kai Yi**, Peter Richtárik             
-  arXiv, 2025. [[arXiv]](https://arxiv.org/abs/2501.18980)                      
+  arXiv, 2025. [[arXiv]](https://arxiv.org/abs/2501.18980) [[code]](https://github.com/WilliamYi96/SymWanda)                                              
   ICLR 2025 Sparsity in LLMs Workshop                  
 
 # 2024
