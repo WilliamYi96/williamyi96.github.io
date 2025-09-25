@@ -25,10 +25,11 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* 2025.09. Invited to be the reviewer for AISTATS 2026 and ICLR 2026.
 * 2025.09. PhD Dissertation has been submitted to [arXiv](https://arxiv.org/abs/2509.08233).
 * <span style="color:red">New!!</span> **2025.09. [FedComLoc](https://openreview.net/forum?id=vYQPLytQsj) has been accepted for publication in TMLR!**
 * 2025.09. Accepted to be the reviewer for ICLR 2026.
-* 2025.09. Reviewer for AAAI 2026.
+* 2025.09. Program Committee Member of AAAI 2026.
 * 2025.08. <span style="color:red"> Started as a Research Scientist at Meta, Sunnyvale!</span>
 * 2025.06. Reviewer for NeurIPS 2025, TMC x2.
 * <span style="color:red">New!!</span> **2025.04. [Scafflix](https://openreview.net/forum?id=qVUEuhlaEa) has been accepted for publication in TMLR!**     
