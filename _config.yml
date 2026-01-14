@@ -88,9 +88,9 @@ author:
   name             : "Kai Yi"
   avatar           : "KAUST-CEMSE-CS-Kai-Yi-1208-2-min.png"
   bio              : |
-     PhD Student, <br>
-     King Abdullah University of Science and Technology (KAUST) <br>
-  location         : "Thuwal, Saudi Arabia"
+     Research Scientist, <br>
+     Meta AI <br>
+  location         : "Sunnyvale, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r08j39wAAAAJ"
@@ -263,7 +263,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
