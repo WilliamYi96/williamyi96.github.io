@@ -25,6 +25,8 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
+* * <span style="color:red">New!!</span> **2026.05. Our paper [JacQuant](https://arxiv.org/abs/2605.25469) is available on arXiv!**     
+* * <span style="color:red">New!!</span> **2026.05. [WinQ](https://arxiv.org/abs/2605.17471) has been accepted for publication in ICML 2026!**
 * 2025.09. Invited to be the reviewer for AISTATS 2026 and ICLR 2026.
 * 2025.09. PhD Dissertation has been submitted to [arXiv](https://arxiv.org/abs/2509.08233).
 * <span style="color:red">New!!</span> **2025.09. [FedComLoc](https://openreview.net/forum?id=vYQPLytQsj) has been accepted for publication in TMLR!**
