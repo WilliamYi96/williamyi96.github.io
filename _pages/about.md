@@ -25,33 +25,34 @@ Research Interests
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> **2026.05. Our paper [JacQuant](https://arxiv.org/abs/2605.25469) is available on arXiv!**     
+* <span style="color:red">New!!</span> **2026.05. Our paper [JacQuant](https://arxiv.org/abs/2605.25469) is available on arXiv!**
+* Gold Reviewer of ICML 2026.   
 * <span style="color:red">New!!</span> **2026.05. [WinQ](https://arxiv.org/abs/2605.17471) has been accepted for publication in ICML 2026!**
 * 2025.09. Invited to be the reviewer for AISTATS 2026 and ICLR 2026.
 * 2025.09. PhD Dissertation has been submitted to [arXiv](https://arxiv.org/abs/2509.08233).
-* <span style="color:red">New!!</span> **2025.09. [FedComLoc](https://openreview.net/forum?id=vYQPLytQsj) has been accepted for publication in TMLR!**
+* **2025.09. [FedComLoc](https://openreview.net/forum?id=vYQPLytQsj) has been accepted for publication in TMLR!**
 * 2025.09. Accepted to be the reviewer for ICLR 2026.
 * 2025.09. Program Committee Member of AAAI 2026.
 * 2025.08. <span style="color:red"> Started as a Research Scientist at Meta, Sunnyvale!</span>
 * 2025.06. Reviewer for NeurIPS 2025, TMC x2.
-* <span style="color:red">New!!</span> **2025.04. [Scafflix](https://openreview.net/forum?id=qVUEuhlaEa) has been accepted for publication in TMLR!**     
-* <span style="color:red">New!!</span> **2025.04. <span style="color:red">Successfully defended my PhD</span>** titled "*[Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/04/14/strategies-improving-communication-efficiency)*." I'm truly grateful to my committee, colleagues, friends, and schoolmates for their amazing support on this special day!
+* **2025.04. [Scafflix](https://openreview.net/forum?id=qVUEuhlaEa) has been accepted for publication in TMLR!**     
+* **2025.04. <span style="color:red">Successfully defended my PhD</span>** titled "*[Strategies for Improving Communication Efficiency in Distributed and Federated Learning: Compression, Local Training, and Personalization](https://cemse.kaust.edu.sa/events/by-type/phd-dissertation-defense/2025/04/14/strategies-improving-communication-efficiency)*." I'm truly grateful to my committee, colleagues, friends, and schoolmates for their amazing support on this special day!
 * 2025.03. [SymWanda](https://arxiv.org/abs/2501.18980) has been accepted for presentation at [SLLM@ICLR 2025](https://www.sparsellm.org/home).
 * 2025.02. Invited as a reviewer for ACM Multimedia and NeurIPS 2025.
-* <span style="color:red">New!!</span> **2025.01. Our paper [SymWanda](https://arxiv.org/abs/2501.18980) is available on arXiv!** 
+* **2025.01. Our paper [SymWanda](https://arxiv.org/abs/2501.18980) is available on arXiv!** 
 * 2025.01. Reviewer for IEEE Transactions on Mobile Computing (TMC) x2.   
 * 2024.12. Invited to serve as a reviewer for ICML 2025.
 * 2024.12. Attending NeurIPS 2024 in Vancouver, Canada. If you're also here, let's connect!               
-* <span style="color:red">New!!</span> 2024.10. Our paper [Cohort Squeeze](https://arxiv.org/abs/2406.01115) has been accepted by NeurIPS [FL@FM Workshop](https://federated-learning.org/fl@fm-neurips-2024/) as an Oral!
-* <span style="color:red">New!!</span> **2024.09. Our paper [PV-Tuning](https://arxiv.org/abs/2405.14852) has been accepted by NeurIPS 2024 as an <span style="color:red">Oral (acceptance rate 0.4%, 61/15671)</span>!**
+* 2024.10. Our paper [Cohort Squeeze](https://arxiv.org/abs/2406.01115) has been accepted by NeurIPS [FL@FM Workshop](https://federated-learning.org/fl@fm-neurips-2024/) as an Oral!
+* **2024.09. Our paper [PV-Tuning](https://arxiv.org/abs/2405.14852) has been accepted by NeurIPS 2024 as an <span style="color:red">Oral (acceptance rate 0.4%, 61/15671)</span>!**
 * 2024.08. Invited as a reviewer for ICLR 2025.
 * 2024.07. Invited as a reviewer for IEEE Transactions on Signal Processing.
-* <span style="color:red">New!!</span> 2024.06. Our paper [Cohort Squeeze](https://arxiv.org/abs/2406.01115) is available on arXiv!   
-* <span style="color:red">New!!</span> 2024.06. Our paper [Sparse-ProxSkip](https://arxiv.org/abs/2405.20623) is available on arXiv!
-* <span style="color:red">New!!</span> 2024.05. Our paper [PV-Tuning](https://arxiv.org/abs/2405.14852) is available on arXiv! [Code](https://github.com/Vahe1994/AQLM/tree/pv-tuning) has been released.
+* 2024.06. Our paper [Cohort Squeeze](https://arxiv.org/abs/2406.01115) is available on arXiv!   
+* Our paper [Sparse-ProxSkip](https://arxiv.org/abs/2405.20623) is available on arXiv!
+* 2024.05. Our paper [PV-Tuning](https://arxiv.org/abs/2405.14852) is available on arXiv! [Code](https://github.com/Vahe1994/AQLM/tree/pv-tuning) has been released.
 * 2024.05. Reviewer for NeurIPS 2024.
 * 2024.05. Attending ICLR 2024 in Vienna, Austria. 
-* <span style="color:red">New!!</span>  **2024.04. Passed the PhD proposal defense with the title "Exploring Real-World Challenges in Federated Learning: Personalization, Sparsity, and Scalability"!**
+* **2024.04. Passed the PhD proposal defense with the title "Exploring Real-World Challenges in Federated Learning: Personalization, Sparsity, and Scalability"!**
 * 2024.04. Our paper [FedP3](https://arxiv.org/abs/2404.09816) is available on arXiv. [Code](https://github.com/SonyResearch/FedP3) has been released. 
 * 2024.03. New paper "FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models" is available on [arXiv](https://arxiv.org/abs/2403.09904).
 * 2024.03. An improved version of [DACZSL](https://arxiv.org/pdf/2112.12989.pdf) is on arXiv.
