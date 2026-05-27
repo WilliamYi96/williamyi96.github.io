@@ -11,7 +11,7 @@ author_profile: true
 
 * WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points         
   Dongyue Li, Zechun Liu, **Kai Yi**, Zhenshuo Zhang, Changsheng Zhao, Raghuraman Krishnamoorthi, Harshit Khaitan, Hongyang R. Zhang, Steven Li            
-  ICML, 2026. [[arXiv]](https://arxiv.org/abs/2605.17471)  [[code]](https://github.com/facebookresearch/WinQ)
+  ICML, 2026. [[paper]](https://arxiv.org/abs/2605.17471)  [[code]](https://github.com/facebookresearch/WinQ)
 
 
 # 2025
