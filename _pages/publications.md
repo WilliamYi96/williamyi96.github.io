@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+# 2026
+* JacQuant: STE-Free Quantization-Aware Training via Learned Jacobian Surrogates
+  **Kai Yi**, Vignesh Vivekraja, Harshit Khaitan, Steven Li
+  arXiv, 2026. [[arXiv]](https://arxiv.org/abs/2605.25469)
+
+* WinQ: Accelerating Quantization-Aware Training of Language Models Around Saddle Points
+  Dongyue Li, Zechun Liu, **Kai Yi**, Zhenshuo Zhang, Changsheng Zhao, Raghuraman Krishnamoorthi, Harshit Khaitan, Hongyang R. Zhang, Steven Li
+  ICML, 2026. [[arXiv]](https://arxiv.org/abs/2605.17471)  [[code]](https://github.com/facebookresearch/WinQ)
+
+
 # 2025
 * FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models            
   **Kai Yi**, Georg Meinhardt, Laurent Condat, Peter Richtárik             
