@@ -61,3 +61,13 @@
   line-height: 1.35;
   vertical-align: top;
 }
+
+/* Nudge the about-page profile photo slightly LEFT on larger screens only.
+   Uses transform so layout flow (and the floated column) is untouched — no
+   horizontal overflow and no overlap with the bio text. On mobile the profile
+   stacks full-width, so this is scoped to the lg breakpoint and up. */
+@media (min-width: 992px) {
+  .post article .profile {
+    transform: translateX(-18px);
+  }
+}
