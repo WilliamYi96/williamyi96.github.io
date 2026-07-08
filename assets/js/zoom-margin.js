@@ -1,1 +1,1 @@
-document.addEventListener("DOMContentLoaded",()=>{"function"==typeof mediumZoom&&mediumZoom("[data-zoomable]",{background:`${getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")}ee`,margin:100})});
+document.addEventListener("DOMContentLoaded",()=>{"function"==typeof mediumZoom&&window.matchMedia("(min-width: 768px)").matches&&mediumZoom("[data-zoomable]",{background:`${getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")}ee`,margin:100})});
