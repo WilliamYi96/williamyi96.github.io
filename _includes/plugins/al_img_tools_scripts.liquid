@@ -1,0 +1,13 @@
+{% comment %}
+  Local override of al_folio_core's plugins/al_img_tools_scripts.liquid.
+
+  The al_img_tools gem emits `assets/al_img_tools/js/zoom.js` to initialize
+  medium-zoom, but that gem asset is regenerated on every build (so a same-path
+  local override is overwritten). Instead we capture the gem tag's output and
+  point the zoom initializer at a local copy that adds a `margin` option, so
+  tall zoomed figures are not clipped at the viewport edges. All other image
+  tools emitted by the tag are passed through unchanged, and only a single
+  zoom initializer is loaded (no double-binding).
+{% endcomment %}
+{% capture al_img_tools_scripts_output %}{% al_img_tools_scripts %}{% endcapture %}
+{{ al_img_tools_scripts_output | replace: "assets/al_img_tools/js/zoom.js", "assets/js/zoom-margin.js" }}
