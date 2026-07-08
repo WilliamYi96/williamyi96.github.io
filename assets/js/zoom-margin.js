@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{"function"==typeof mediumZoom&&mediumZoom("[data-zoomable]",{background:`${getComputedStyle(document.documentElement).getPropertyValue("--global-bg-color")}ee`,margin:100})});
