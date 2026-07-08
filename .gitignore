@@ -15,3 +15,6 @@ node_modules/
 output/playwright/
 test-results/
 vendor
+
+# Local source figures (not part of the built site)
+pub_figs/
