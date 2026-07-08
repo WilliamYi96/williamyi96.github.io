@@ -60,8 +60,7 @@ a:focus {
 #logout:focus,
 #logout.focus,
 #logout:active,
-#logout.active,
-.open > .dropdown-toggle#logout {
+#logout.active {
   color: #1c1c1c;
   background-color: #303030;
   background: #303030;
@@ -250,8 +249,7 @@ body > #header .header-bar {
 
 .btn:hover,
 .btn:active:hover,
-.btn.active:hover,
-.open > .dropdown-toggle.btn:hover {
+.btn.active:hover {
   color: #ef5c00;
   border: 2px solid #e0e0e0;
   background-color: #e0e0e0;
@@ -266,9 +264,7 @@ body > #header .header-bar {
 .btn:active:focus,
 .btn.active:focus,
 .btn:active.focus,
-.btn.active.focus,
-.open > .dropdown-toggle.btn:focus,
-.open > .dropdown-toggle.btn.focus {
+.btn.active.focus {
   color: #ef5c00;
   border: 2px solid #e0e0e0;
   background-color: #e0e0e0 !important;
