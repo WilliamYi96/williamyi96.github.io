@@ -30,6 +30,8 @@ I am a Research Scientist at Meta AI in Sunnyvale, working on model compression 
 
 I received my Ph.D. in Computer Science from [KAUST](https://kaust.edu.sa/en) in June 2025, advised by [Prof. Peter Richtárik](https://richtarik.org/). Before that, I completed my Master’s degree at KAUST under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/) and received my Bachelor of Engineering with honors from [Xi’an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/).
 
+Before joining Meta AI full-time, I gained research experience through internships and collaborations with [Sony AI](https://ai.sony/), [Vector Institute](https://vectorinstitute.ai/), [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), [CMU Xulab](https://xulabs.github.io/), [NUS CVML Group](https://sites.google.com/comp.nus.edu.sg/cvml/about-us?authuser=0), and [SenseTime Research](https://www.sensetime.com/en).
+
 My recent work studies efficient LLM compression, including extreme low-bit quantization, QAT/PTQ methods, and deployment-aware optimization. Representative works include [JacQuant](https://arxiv.org/abs/2605.25469), [WinQ](https://arxiv.org/abs/2605.17471), [SymWanda](https://arxiv.org/abs/2501.18980) and [PV-Tuning](https://arxiv.org/abs/2405.14852). Previously, I worked on communication-efficient federated and distributed learning, including [CohortSqueeze](https://arxiv.org/abs/2406.01115), [FedP3](https://arxiv.org/abs/2404.09816), [FedComLoc](https://openreview.net/forum?id=0jmFRA64Vw), and [EF-BV](https://arxiv.org/abs/2205.04180).
 
 ## Research Interests
