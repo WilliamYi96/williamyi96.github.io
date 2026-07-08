@@ -1,0 +1,63 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* =========================================================================
+   Local customizations (about page: News section + section headings)
+   ========================================================================= */
+
+/* Give a clear gap ABOVE each section heading so the scrollable News box
+   does not collide with the following heading ("另起一行" separation). */
+.post article > h2 {
+  margin-top: 2rem;
+  clear: both;
+}
+
+/* Add breathing room BELOW the (possibly scrollable) News list so the next
+   heading starts cleanly on its own line. */
+.news {
+  margin-bottom: 1.5rem;
+}
+
+.news .table-responsive {
+  margin-bottom: 0;
+}
+
+/* Tighten the vertical spacing BETWEEN News rows so the list is compact. */
+.news table.table td,
+.news table.table th {
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+  line-height: 1.35;
+  vertical-align: top;
+}

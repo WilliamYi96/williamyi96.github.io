@@ -21,7 +21,7 @@ announcements:
   limit: # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false # disabled: not using blog posts on the homepage
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -30,7 +30,7 @@ I am a Research Scientist at Meta AI in Sunnyvale, working on model compression 
 
 I received my Ph.D. in Computer Science from [KAUST](https://kaust.edu.sa/en) in June 2025, advised by [Prof. Peter Richtárik](https://richtarik.org/). Before that, I completed my Master’s degree at KAUST under the supervision of [Prof. Mohamed Elhoseiny](https://www.mohamed-elhoseiny.com/) and received my Bachelor of Engineering with honors from [Xi’an Jiaotong University (XJTU)](http://en.xjtu.edu.cn/).
 
-My recent work studies efficient LLM compression, including extreme low-bit quantization, QAT/PTQ methods, and deployment-aware optimization. Representative works include [SymWanda](https://arxiv.org/abs/2501.18980), [PV-Tuning](https://arxiv.org/abs/2405.14852), [WinQ](https://arxiv.org/abs/2605.17471), and [JacQuant](https://arxiv.org/abs/2605.25469). Previously, I worked on communication-efficient federated and distributed learning, including [CohortSqueeze](https://arxiv.org/abs/2406.01115), [FedP3](https://arxiv.org/abs/2404.09816), FedComLoc, and [EF-BV](https://arxiv.org/abs/2205.04180).
+My recent work studies efficient LLM compression, including extreme low-bit quantization, QAT/PTQ methods, and deployment-aware optimization. Representative works include [JacQuant](https://arxiv.org/abs/2605.25469), [WinQ](https://arxiv.org/abs/2605.17471), [SymWanda](https://arxiv.org/abs/2501.18980) and [PV-Tuning](https://arxiv.org/abs/2405.14852). Previously, I worked on communication-efficient federated and distributed learning, including [CohortSqueeze](https://arxiv.org/abs/2406.01115), [FedP3](https://arxiv.org/abs/2404.09816), [FedComLoc](https://openreview.net/forum?id=0jmFRA64Vw), and [EF-BV](https://arxiv.org/abs/2205.04180).
 
 ## Research Interests
 

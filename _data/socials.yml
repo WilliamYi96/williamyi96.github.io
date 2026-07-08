@@ -6,4 +6,4 @@ scholar_userid: r08j39wAAAAJ # your Google Scholar ID
 github_username: WilliamYi96 # your GitHub user name
 linkedin_username: kai-yi-347089153 # your LinkedIn user name
 orcid_id: 0000-0003-0415-3584 # your ORCID ID
-rss_icon: true # comment this line to hide the RSS icon
+# rss_icon: false # comment this line to hide the RSS icon
